@@ -1,7 +1,7 @@
 name: Projectized
 favicon: null
-layout_spectrum: 0.0729574968572706
-typography_spectrum: 0.4952508779242635
+layout_spectrum: 0.74977
+typography_spectrum: 1
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.1838898384012282
-  lightness: 0.5587695583235472
+    - '#ffffff'
+    - '#89d4f4'
+    - '#172645'
+    - '#019ec7'
+    - '#00d2f5'
+  brandStrength: 0.75
+  lightness: 0.5625
   saturation: 0.5221817314159125
-  rhythmicContrast: 0.8972272733226418
+  rhythmicContrast: 0.75
 purpose: []
