@@ -5,10 +5,11 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Strategy Alignment & Implementation:'
-datePublished: '2016-05-05T02:25:33.857Z'
-dateModified: '2016-05-05T02:25:30.340Z'
+datePublished: '2016-05-05T12:06:15.756Z'
+dateModified: '2016-05-05T12:05:57.475Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-05-strategy-alignment-and-implementation-projects.md
 authors: []
 publisher:
   name: null
@@ -16,7 +17,6 @@ publisher:
   url: null
   favicon: null
 starred: true
-sourcePath: _posts/2016-05-05-strategy-alignment-and-implementation-projects.md
 url: strategy-alignment-and-implementation-projects/index.html
 _type: Article
 
