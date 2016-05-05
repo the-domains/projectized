@@ -4,7 +4,7 @@
         <description><![CDATA[Projectized Solutions]]></description>
         <link>https://thegrid.ai/projectized/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 05 May 2016 12:21:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 May 2016 12:28:48 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/projectized/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Strategy Alignment & Implementation Projects]]></title>
@@ -19,6 +19,13 @@
             <link>https://thegrid.ai/projectized/organization-development-projects/index.html</link>
             <guid isPermaLink="false">e0a5a298-fdd6-4002-bd13-295b769944d8</guid>
             <pubDate>Thu, 05 May 2016 02:25:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Process Improvement]]></title>
+            <description><![CDATA[<p>Having the right strategy is critical to business success. But strategy without effective execution amounts to little more than making a wish in the right direction. And nothing is more critical to sound execution than effective, efficient business processes.  Weak business processes waste time and money, and almost always have a negative impact on product or service quality. </p>]]></description>
+            <link>https://thegrid.ai/projectized/process-improvement/index.html</link>
+            <guid isPermaLink="false">b39c52c5-3d07-48b7-9a57-c3ce97362d91</guid>
+            <pubDate>Thu, 05 May 2016 12:28:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
