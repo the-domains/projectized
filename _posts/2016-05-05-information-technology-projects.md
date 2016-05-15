@@ -5,17 +5,17 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Information Technology.
-datePublished: '2016-05-05T11:57:42.875Z'
-dateModified: '2016-05-05T11:57:24.485Z'
+datePublished: '2016-05-15T21:07:13.908Z'
+dateModified: '2016-05-15T20:54:18.270Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-05-information-technology-projects.md
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-05-05-information-technology-projects.md
 starred: false
 url: information-technology-projects/index.html
 _type: WebPage
