@@ -6,8 +6,8 @@ isBasedOnUrl: 'http://www.cio.com/article/3062999/project-management/how-to-crea
 inLanguage: null
 keywords: []
 description: 'If we are performing work - internally or externally - that is helping to grow the company and yet we are struggling to accomplish this work because of poor communication, lack of detailed requirements or weak resource management and financial management of these efforts then it is likely that the organization could benefit greatly from the creation of a formal project management infrastructure.'
-datePublished: '2016-05-25T18:48:03.383Z'
-dateModified: '2016-05-25T18:45:16.771Z'
+datePublished: '2016-05-25T18:54:44.646Z'
+dateModified: '2016-05-25T18:48:15.756Z'
 author:
   - name: Brad Egeland
     url: 'http://www.cio.com/author/Brad-Egeland/'
