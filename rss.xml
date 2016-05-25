@@ -4,7 +4,7 @@
         <description><![CDATA[Projectized Solutions]]></description>
         <link>https://thegrid.ai/projectized/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 25 May 2016 19:24:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 May 2016 19:26:04 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/projectized/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Strategy Alignment & Implementation Projects]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/projectized/strategy-alignment-and-implementation-projects/index.html</link>
             <guid isPermaLink="false">6c212765-f0e7-4858-8ad3-fea4a86f81a7</guid>
             <pubDate>Wed, 25 May 2016 19:07:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Information Technology Projects]]></title>
+            <description><![CDATA[<p>Information Technology.</p>]]></description>
+            <link>https://thegrid.ai/projectized/information-technology-projects/index.html</link>
+            <guid isPermaLink="false">8a25bc17-d305-4f50-a627-20350ed50f92</guid>
+            <pubDate>Wed, 25 May 2016 19:26:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Organization Development Projects ]]></title>
