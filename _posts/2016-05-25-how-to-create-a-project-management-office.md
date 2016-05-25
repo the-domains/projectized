@@ -1,22 +1,22 @@
 ---
-description: 'If we are performing work - internally or externally - that is helping to grow the company and yet we are struggling to accomplish this work because of poor communication, lack of detailed requirements or weak resource management and financial management of these efforts then it is likely that the organization could benefit greatly from the creation of a formal project management infrastructure.'
-datePublished: '2016-05-25T18:45:10.367Z'
+inFeed: true
+hasPage: false
 inNav: false
+isBasedOnUrl: 'http://www.cio.com/article/3062999/project-management/how-to-create-a-project-management-infrastructure-from-the-ground-up.html'
 inLanguage: null
+keywords: []
+description: 'If we are performing work - internally or externally - that is helping to grow the company and yet we are struggling to accomplish this work because of poor communication, lack of detailed requirements or weak resource management and financial management of these efforts then it is likely that the organization could benefit greatly from the creation of a formal project management infrastructure.'
+datePublished: '2016-05-25T18:48:03.383Z'
+dateModified: '2016-05-25T18:45:16.771Z'
 author:
   - name: Brad Egeland
     url: 'http://www.cio.com/author/Brad-Egeland/'
     avatar: {}
-hasPage: false
-authors: []
-isBasedOnUrl: 'http://www.cio.com/article/3062999/project-management/how-to-create-a-project-management-infrastructure-from-the-ground-up.html'
 title: How to create a project management Office
-publisher: null
-keywords: []
-dateModified: '2016-05-22T13:10:40.123Z'
-inFeed: true
-starred: false
 sourcePath: _posts/2016-05-25-how-to-create-a-project-management-office.md
+authors: []
+publisher: null
+starred: false
 _type: MediaObject
 
 ---
