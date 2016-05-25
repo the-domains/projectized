@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Strategy Alignment & Implementation:'
-datePublished: '2016-05-25T19:06:15.821Z'
-dateModified: '2016-05-25T19:02:37.134Z'
+datePublished: '2016-05-25T19:07:14.067Z'
+dateModified: '2016-05-25T19:06:26.993Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-05-strategy-alignment-and-implementation-projects.md
