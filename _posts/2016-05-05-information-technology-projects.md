@@ -1,24 +1,20 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
 description: Information Technology.
-datePublished: '2016-05-15T21:07:13.908Z'
-dateModified: '2016-05-15T20:54:18.270Z'
+datePublished: '2016-05-25T19:26:01.486Z'
+dateModified: '2016-05-25T19:24:39.898Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-05-information-technology-projects.md
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: null
 starred: false
 url: information-technology-projects/index.html
-_type: WebPage
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0403c8d5-088f-4a10-8130-72ee065d0d10.jpg)
