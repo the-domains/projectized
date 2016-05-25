@@ -5,17 +5,13 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Organization Development:'
-datePublished: '2016-05-15T21:03:30.484Z'
-dateModified: '2016-05-05T11:58:29.320Z'
+datePublished: '2016-05-25T19:09:32.753Z'
+dateModified: '2016-05-25T19:03:40.559Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-05-organization-development-projects.md
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: null
 starred: false
 url: organization-development-projects/index.html
 _type: Article
