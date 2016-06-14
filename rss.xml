@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Projectized Resolution]]></title>
-        <description><![CDATA[Projectized Resolution]]></description>
+        <title><![CDATA[Projectized.co]]></title>
+        <description><![CDATA[Projectized.co]]></description>
         <link>https://thegrid.ai/projectized/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 14 Jun 2016 03:01:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2016 03:07:01 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/projectized/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How to Align Your Project To Business Strategy - ProjectManager.com]]></title>
+            <description><![CDATA[<article><h1>How to Align Your Project To Business Strategy - ProjectManager.com</h1><p>It's important that your projects align with the business strategy of the organization you're working to support, and Jennifer Bridges, PMP, shows you how. Here's a shot of the whiteboard for your reference! Jennifer started the tutorial noting why it's important to align your project to core strategic goals of the operation you are working to support.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/37b9b388d7df704b816110323da96a6d553d18ab.jpg"></article>]]></description>
+            <link>https://www.projectmanager.com/training/how-to-align-your-project-to-business-strategy?utm_medium=referral&amp;utm_source=linkedin.com&amp;utm_campaign=newsletter</link>
+            <guid isPermaLink="false">f2fffb15-a5eb-4028-b25b-e92250344224</guid>
+            <pubDate>Tue, 14 Jun 2016 03:07:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How to create a project management Office]]></title>
             <description><![CDATA[<article><h1>How to create a project management Office</h1><p>If we are performing work - internally or externally - that is helping to grow the company and yet we are struggling to accomplish this work because of poor communication, lack of detailed requirements or weak resource management and financial management of these efforts then it is likely that the organization could benefit greatly from the creation of a formal project management infrastructure.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f002e491195294c5f42756866ef292d4fdf78edb.png"></article>]]></description>
             <link>http://www.cio.com/article/3062999/project-management/how-to-create-a-project-management-infrastructure-from-the-ground-up.html</link>
             <guid isPermaLink="false">f3e3dfca-9d8a-4435-a512-4080b6894e24</guid>
             <pubDate>Wed, 25 May 2016 18:54:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to Align Your Project To Business Strategy - ProjectManager.com]]></title>
-            <description><![CDATA[<article><h1>How to Align Your Project To Business Strategy - ProjectManager.com</h1><p>It's important that your projects align with the business strategy of the organization you're working to support, and Jennifer Bridges, PMP, shows you how. Here's a shot of the whiteboard for your reference! Jennifer started the tutorial noting why it's important to align your project to core strategic goals of the operation you are working to support.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/37b9b388d7df704b816110323da96a6d553d18ab.jpg"></article>]]></description>
-            <link>https://www.projectmanager.com/training/how-to-align-your-project-to-business-strategy?utm_medium=referral&amp;utm_source=linkedin.com&amp;utm_campaign=newsletter</link>
-            <guid isPermaLink="false">f2fffb15-a5eb-4028-b25b-e92250344224</guid>
-            <pubDate>Wed, 25 May 2016 18:39:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
