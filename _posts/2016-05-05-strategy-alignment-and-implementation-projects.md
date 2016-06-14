@@ -1,20 +1,20 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
 description: 'Strategy Alignment & Implementation:'
-datePublished: '2016-05-25T19:07:14.067Z'
-dateModified: '2016-05-25T19:06:26.993Z'
+datePublished: '2016-06-14T02:59:13.172Z'
+dateModified: '2016-05-30T11:43:36.176Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-05-strategy-alignment-and-implementation-projects.md
 authors: []
 publisher: null
-starred: true
+starred: false
 url: strategy-alignment-and-implementation-projects/index.html
-_type: Article
+_type: WebPage
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4941e03a-0276-40e6-9132-897434ff2794.jpg)
