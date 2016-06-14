@@ -2,7 +2,7 @@ name: Projectized.co
 favicon: null
 layout_spectrum: 0.25094
 typography_spectrum: 1
-title: Projectized Resolution
+title: Projectized.co
 collections:
   - index:
       path: /
