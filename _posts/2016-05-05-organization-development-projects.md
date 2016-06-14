@@ -1,12 +1,14 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: 'We research and analyze corporate environments through observing and interviewing management and employees.  '
-datePublished: '2016-05-25T19:23:43.449Z'
-dateModified: '2016-05-25T19:23:37.647Z'
+description: >-
+  We research and analyze corporate environments through observing and
+  interviewing management and employees. 
+datePublished: '2016-06-14T02:59:23.716Z'
+dateModified: '2016-06-14T02:58:55.840Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-05-organization-development-projects.md
@@ -14,7 +16,7 @@ authors: []
 publisher: null
 starred: false
 url: organization-development-projects/index.html
-_type: Article
+_type: WebPage
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/eddc5162-e3e1-4a6d-9ad1-95c85a82a6b3.jpg)
