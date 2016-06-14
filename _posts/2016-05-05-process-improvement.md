@@ -14,8 +14,8 @@ description: >-
   their efforts are overwhelmed by a larger “system” over which they have little
   individual control. Generally speaking, a solid business process improvement
   program should proceed as follows: 
-datePublished: '2016-06-14T02:57:50.704Z'
-dateModified: '2016-06-14T02:57:09.559Z'
+datePublished: '2016-06-14T02:58:23.250Z'
+dateModified: '2016-06-14T02:57:59.906Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-05-process-improvement.md
