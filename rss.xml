@@ -1,18 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Projectized Solutions]]></title>
-        <description><![CDATA[Projectized Solutions]]></description>
+        <title><![CDATA[Projectized Resolution]]></title>
+        <description><![CDATA[Projectized Resolution]]></description>
         <link>https://thegrid.ai/projectized/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 25 May 2016 19:26:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2016 02:59:14 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/projectized/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Strategy Alignment & Implementation Projects]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4941e03a-0276-40e6-9132-897434ff2794.jpg">]]></description>
-            <link>https://thegrid.ai/projectized/strategy-alignment-and-implementation-projects/index.html</link>
-            <guid isPermaLink="false">6c212765-f0e7-4858-8ad3-fea4a86f81a7</guid>
-            <pubDate>Wed, 25 May 2016 19:07:14 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Information Technology Projects]]></title>
             <description><![CDATA[<p>Information Technology.</p>]]></description>
