@@ -4,10 +4,10 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: 'Vision, Mission & Core Values'
-datePublished: '2016-06-15T14:35:59.759Z'
-dateModified: '2016-06-15T14:35:20.276Z'
-title: 'Vision, Mission + Core Values'
+description: ''
+datePublished: '2016-06-15T15:03:10.725Z'
+dateModified: '2016-06-15T15:02:51.208Z'
+title: 'Vision, Mission & Core Values'
 author:
   - name: ''
     url: ''
@@ -19,7 +19,7 @@ url: vision-mission-core-values/index.html
 _type: Article
 
 ---
-# Vision, Mission + Core Values
+# Vision, Mission & Core Values
 ![Vision, Mission & Core Values](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ac0d2a6f-1b1d-48f9-9d49-76c32871d7f4.jpg)
 
 # Vision:
