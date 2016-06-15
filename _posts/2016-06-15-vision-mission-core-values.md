@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Vision, Mission & Core Values'
-datePublished: '2016-06-15T02:38:16.394Z'
-dateModified: '2016-06-15T02:38:08.356Z'
+datePublished: '2016-06-15T14:35:59.759Z'
+dateModified: '2016-06-15T14:35:20.276Z'
 title: 'Vision, Mission + Core Values'
 author:
   - name: ''
@@ -22,8 +22,22 @@ _type: Article
 # Vision, Mission + Core Values
 ![Vision, Mission & Core Values](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ac0d2a6f-1b1d-48f9-9d49-76c32871d7f4.jpg)
 
-# Vision 
+# Vision:
 
-# Mission
+By End of 2018 we'll be recognized and selected as one of the top 10 consulting firms in the region.
 
-# Core Values
+# Mission:
+
+We undertake our responsibility toward our customer with great deal of attention and care, to achieve their objectives by applying our methodologies and experience in program / project and PMO establishment and management.
+
+# Core Values:
+
+Our company culture based on,
+
+Integrity,
+
+Transparency,
+
+Quality,
+
+Team Work ,
