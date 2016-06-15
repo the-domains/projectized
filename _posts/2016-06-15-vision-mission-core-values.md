@@ -1,12 +1,12 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: 'Vision, Mission & Core Values'
-datePublished: '2016-06-15T02:37:25.231Z'
-dateModified: '2016-06-15T02:37:07.125Z'
+datePublished: '2016-06-15T02:38:16.394Z'
+dateModified: '2016-06-15T02:38:08.356Z'
 title: 'Vision, Mission + Core Values'
 author:
   - name: ''
