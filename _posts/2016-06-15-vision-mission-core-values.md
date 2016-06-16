@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-16T02:33:13.010Z'
-dateModified: '2016-06-16T02:33:11.260Z'
+datePublished: '2016-06-16T02:37:59.980Z'
+dateModified: '2016-06-16T02:37:43.535Z'
 author:
   - name: ''
     url: ''
@@ -32,7 +32,7 @@ Serving our customers responsibly and attentively to achieve their objectives th
 
 # Core Values:
 
-Our company culture based on,
+Projectized philosophy is based on,
 
 Partnership,
 
