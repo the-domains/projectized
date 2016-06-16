@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-16T02:30:04.731Z'
-dateModified: '2016-06-16T02:29:42.648Z'
+datePublished: '2016-06-16T02:33:13.010Z'
+dateModified: '2016-06-16T02:33:11.260Z'
 author:
   - name: ''
     url: ''
@@ -24,7 +24,7 @@ _type: Article
 
 # Vision:
 
-To be recognized as one of the top 10 consulting firms in the Midddle East by 2019\.
+To be recognized as one of the top 10 consulting firms in the Middle East by 2019\.
 
 # Mission:
 
