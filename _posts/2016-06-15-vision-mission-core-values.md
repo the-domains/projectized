@@ -1,19 +1,19 @@
 ---
-description: ''
-datePublished: '2016-06-15T20:51:48.908Z'
+inFeed: true
+hasPage: true
 inNav: true
 inLanguage: null
+keywords: []
+description: ''
+datePublished: '2016-06-16T02:29:34.194Z'
+dateModified: '2016-06-16T02:29:26.155Z'
 author:
   - name: ''
     url: ''
 sourcePath: _posts/2016-06-15-vision-mission-core-values.md
-hasPage: true
-authors: []
 title: 'Vision, Mission & Core Values'
+authors: []
 publisher: null
-keywords: []
-dateModified: '2016-06-15T20:51:06.314Z'
-inFeed: true
 starred: false
 url: vision-mission-and-core-values/index.html
 _type: Article
