@@ -1,41 +1,41 @@
-name: Projectized.co
-favicon: null
-layout_spectrum: 0.3813
-typography_spectrum: 1
 title: Projectized.co
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+    permalink:
+      path: '/:title/'
 color:
+  saturation: 0.5625
+  brandStrength: 0.5
+  rhythmicContrast: 0
   brandColors:
     - '#262262'
     - '#bf1e2e'
     - '#00aeef'
     - '#9494b5'
     - '#ffffff'
-  brandStrength: 0.5
   lightness: 0.6875
-  saturation: 0.5625
-  rhythmicContrast: 0
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: Projectized.co
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 1
+layout_spectrum: 0.6953405
