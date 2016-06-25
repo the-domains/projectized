@@ -12,8 +12,8 @@ description: >-
   should be doing to improve the project. It can be very easy to start going
   through the motions if the project is on auto pilot or even if it's going
   horribly wrong.
-datePublished: '2016-06-25T02:50:13.921Z'
-dateModified: '2016-06-25T02:50:07.498Z'
+datePublished: '2016-06-25T02:50:44.824Z'
+dateModified: '2016-06-25T02:50:19.810Z'
 title: ' '
 author:
   - name: Brad Egeland
