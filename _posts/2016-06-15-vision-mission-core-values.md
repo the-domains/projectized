@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-26T02:42:30.392Z'
-dateModified: '2016-06-26T02:42:18.579Z'
+datePublished: '2016-06-26T02:46:55.147Z'
+dateModified: '2016-06-26T02:44:42.184Z'
 author:
   - name: ''
     url: ''
@@ -20,7 +20,7 @@ _type: Article
 
 ---
 # Vision, Mission & Core Values
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ac0d2a6f-1b1d-48f9-9d49-76c32871d7f4.jpg)
+![Vision, Mission & Core Values](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ac0d2a6f-1b1d-48f9-9d49-76c32871d7f4.jpg)
 
 # Vision:
 
