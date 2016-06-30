@@ -1,6 +1,6 @@
 name: Projectized.co
 favicon: null
-layout_spectrum: 0.51338
+layout_spectrum: 0
 typography_spectrum: 1
 title: Projectized.co
 collections:
@@ -37,5 +37,5 @@ color:
   brandStrength: 0.5
   lightness: 0.6875
   saturation: 0.5625
-  rhythmicContrast: 0.5
+  rhythmicContrast: 0
 purpose: []
