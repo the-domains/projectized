@@ -4,7 +4,7 @@
         <description><![CDATA[Projectized.co]]></description>
         <link>https://thegrid.ai/projectized/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Jul 2016 23:08:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2016 23:09:40 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/projectized/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Think Smarter...Think Projectized]]></title>
@@ -12,6 +12,13 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/94e00f1c-d6d6-406e-8981-cc897e2c4a6c.png</link>
             <guid isPermaLink="false">9478e7e4-d0ea-4a37-b455-3cec17aec8b5</guid>
             <pubDate>Mon, 04 Jul 2016 08:23:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Resource Leveling - Can You or Should You Level?]]></title>
+            <description><![CDATA[<article><h1>Resource Leveling - Can You or Should You Level?</h1><p>Resource leveling is a hotly debated subject in the project management world. The comments range from one should never level resources - ever! To you can use leveling if you know the consequences. Or you should only level manually. So, what's the deal?? First, what is resource leveling?</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f63c4996a6b01ec8ce84b2bd870c0278/noop.jpg?input=http%3A%2F%2Fwww.projectinsight.net%2Farticles%2Farticlesshare%2Fi%2F2013%2Fdata-linegraph-computer.jpg"></article>]]></description>
+            <link>http://www.projectinsight.net/blogs/project-management-software-implementation-and-user-adoption-tips/resource-leveling-can-you-or-should-you-level</link>
+            <guid isPermaLink="false">478e29e9-59a7-4183-b2a4-3b23bfc69e17</guid>
+            <pubDate>Mon, 04 Jul 2016 23:09:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Vision, Mission & Core Values]]></title>
@@ -33,13 +40,6 @@
             <link>http://www.cio.com/article/3082037/project-management/11-best-practices-to-improve-any-project-anywhere.html</link>
             <guid isPermaLink="false">7a69c093-2b7d-42d4-b365-3539272aa095</guid>
             <pubDate>Mon, 04 Jul 2016 07:32:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Resource Leveling - Can You or Should You Level?]]></title>
-            <description><![CDATA[<article><h1>Resource Leveling - Can You or Should You Level?</h1><p>Resource leveling is a hotly debated subject in the project management world. The comments range from one should never level resources - ever! To you can use leveling if you know the consequences. Or you should only level manually. So, what's the deal?? First, what is resource leveling?</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f63c4996a6b01ec8ce84b2bd870c0278/noop.jpg?input=http%3A%2F%2Fwww.projectinsight.net%2Farticles%2Farticlesshare%2Fi%2F2013%2Fdata-linegraph-computer.jpg"></article>]]></description>
-            <link>http://www.projectinsight.net/blogs/project-management-software-implementation-and-user-adoption-tips/resource-leveling-can-you-or-should-you-level</link>
-            <guid isPermaLink="false">478e29e9-59a7-4183-b2a4-3b23bfc69e17</guid>
-            <pubDate>Sat, 02 Jul 2016 02:24:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[PMOs do it loudest (video evidence)]]></title>
