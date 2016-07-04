@@ -12,9 +12,9 @@ description: >-
   should be doing to improve the project. It can be very easy to start going
   through the motions if the project is on auto pilot or even if it's going
   horribly wrong.
-datePublished: '2016-07-04T07:31:33.797Z'
-dateModified: '2016-07-04T07:31:22.154Z'
-title: ''
+datePublished: '2016-07-04T07:32:29.613Z'
+dateModified: '2016-07-04T07:32:17.534Z'
+title: 11 best practices to improve any project anywhere
 author:
   - name: Brad Egeland
     url: 'http://www.cio.com/author/Brad-Egeland/'
