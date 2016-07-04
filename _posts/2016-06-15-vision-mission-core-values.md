@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-07-02T02:25:55.803Z'
-dateModified: '2016-07-02T02:25:13.375Z'
+datePublished: '2016-07-04T07:37:21.658Z'
+dateModified: '2016-07-04T07:37:12.761Z'
 author:
   - name: ''
     url: ''
@@ -24,18 +24,18 @@ _type: Article
 
 # Vision:
 
-To be recognized as one of the top 10 consulting firms in Egypt by 2019\.
+**_To be recognized as one of the top 10 consulting firms in Egypt by 2019\._**
 
 # Mission:
 
-Serving our customers responsibly and attentively to achieve their objectives through our experiences, methodologies and consultative approach.
+**_Serving our customers responsibly and attentively to achieve their objectives through our experiences, methodologies and consultative approach._**
 
 # Core Values:
 
 Projectized philosophy is based on,
 
-Partnership,
+**_Partnership,_**
 
-Integrity,
+**_Integrity,_**
 
-Quality.
+**_Quality._**
