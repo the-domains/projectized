@@ -11,8 +11,8 @@ description: >-
   times. Before my conference talks / performances I like to oxygenate the
   audience a little bit, get them a bit pumped up, do something a bit different
   and get those brain juices flowing.
-datePublished: '2016-06-26T02:45:22.505Z'
-dateModified: '2016-06-26T02:45:11.069Z'
+datePublished: '2016-07-04T23:10:44.383Z'
+dateModified: '2016-07-04T23:10:35.923Z'
 author:
   - name: Craig Kilford
     url: 'https://www.linkedin.com/in/craigkilford?trk=pulse-det-athr_prof-art_hdr'
