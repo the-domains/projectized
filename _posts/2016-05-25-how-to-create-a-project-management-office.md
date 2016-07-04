@@ -13,8 +13,8 @@ description: >-
   financial management of these efforts then it is likely that the organization
   could benefit greatly from the creation of a formal project management
   infrastructure.
-datePublished: '2016-06-14T03:07:48.743Z'
-dateModified: '2016-06-14T03:07:41.290Z'
+datePublished: '2016-07-04T23:20:37.463Z'
+dateModified: '2016-07-04T23:13:42.606Z'
 author:
   - name: Brad Egeland
     url: 'http://www.cio.com/author/Brad-Egeland/'
