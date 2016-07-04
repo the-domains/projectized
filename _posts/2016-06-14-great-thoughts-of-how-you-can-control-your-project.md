@@ -12,9 +12,9 @@ description: >-
   should be doing to improve the project. It can be very easy to start going
   through the motions if the project is on auto pilot or even if it's going
   horribly wrong.
-datePublished: '2016-06-25T02:50:44.824Z'
-dateModified: '2016-06-25T02:50:19.810Z'
-title: ' '
+datePublished: '2016-07-04T07:31:33.797Z'
+dateModified: '2016-07-04T07:31:22.154Z'
+title: ''
 author:
   - name: Brad Egeland
     url: 'http://www.cio.com/author/Brad-Egeland/'
@@ -26,6 +26,4 @@ starred: false
 _type: MediaObject
 
 ---
-# 
-
 <article style=""><h1>11 best practices to improve any project anywhere</h1><p>No matter where you are on the project, no matter how well or how poorly things are going at the moment, there is always something you can be doing or should be doing to improve the project. It can be very easy to start going through the motions if the project is on auto pilot or even if it's going horribly wrong.</p><img src="http://images.techhive.com/images/article/2016/06/11-best-practices-100665722-primary.idge.jpg" /></article>
