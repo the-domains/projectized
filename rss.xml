@@ -4,7 +4,7 @@
         <description><![CDATA[Projectized.co]]></description>
         <link>https://thegrid.ai/projectized/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Jul 2016 23:16:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2016 23:21:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/projectized/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Think Smarter...Think Projectized]]></title>
@@ -12,6 +12,13 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/94e00f1c-d6d6-406e-8981-cc897e2c4a6c.png</link>
             <guid isPermaLink="false">9478e7e4-d0ea-4a37-b455-3cec17aec8b5</guid>
             <pubDate>Mon, 04 Jul 2016 23:14:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to create a project management Office]]></title>
+            <description><![CDATA[<article><h1>How to create a project management Office</h1><p>If we are performing work - internally or externally - that is helping to grow the company and yet we are struggling to accomplish this work because of poor communication, lack of detailed requirements or weak resource management and financial management of these efforts then it is likely that the organization could benefit greatly from the creation of a formal project management infrastructure.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f002e491195294c5f42756866ef292d4fdf78edb.png"></article>]]></description>
+            <link>http://www.cio.com/article/3062999/project-management/how-to-create-a-project-management-infrastructure-from-the-ground-up.html</link>
+            <guid isPermaLink="false">f3e3dfca-9d8a-4435-a512-4080b6894e24</guid>
+            <pubDate>Mon, 04 Jul 2016 23:20:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Vision, Mission & Core Values.]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.projectinsight.net/blogs/project-management-software-implementation-and-user-adoption-tips/resource-leveling-can-you-or-should-you-level</link>
             <guid isPermaLink="false">478e29e9-59a7-4183-b2a4-3b23bfc69e17</guid>
             <pubDate>Mon, 04 Jul 2016 23:09:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Executing Strategy: The Journey to Excellence]]></title>
-            <description><![CDATA[<article><h1>Executing Strategy: The Journey to Excellence</h1><p>As the saying goes, "good ideas are a-dime-a-dozen." Having a good idea simply doesn't mean much unless it can be translated into results in the real world. Strategic plans that can't be executed are largely useless.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/96ceb88344589abb2fb11005520e0af9/noop.jpg?input=https%3A%2F%2Fmedia.licdn.com%2Fmpr%2Fmpr%2FAAEAAQAAAAAAAAg6AAAAJDhlMTgwNzJlLTY1OWItNDEwMS04NzgyLThjYjk5N2JmZGUxNw.jpg"></article>]]></description>
-            <link>https://www.linkedin.com/pulse/exclusive-opportunity-learn-secrets-executing-john-schlichter-opm3</link>
-            <guid isPermaLink="false">3266fb04-b7df-4273-a4b3-43b8de8e39ee</guid>
-            <pubDate>Thu, 23 Jun 2016 23:01:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
