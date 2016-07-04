@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Vision, Mission & Core Values'
-datePublished: '2016-07-04T23:16:11.806Z'
-dateModified: '2016-07-04T23:16:03.064Z'
+datePublished: '2016-07-04T23:25:51.609Z'
+dateModified: '2016-07-04T23:21:38.843Z'
 author:
   - name: ''
     url: ''
@@ -32,7 +32,7 @@ _type: Article
 
 # Core Values:
 
-Projectized philosophy is based on,
+**Projectized philosophy is based on,**
 
 **_Partnership,_**
 
