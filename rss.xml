@@ -4,14 +4,21 @@
         <description><![CDATA[Projectized.co]]></description>
         <link>https://thegrid.ai/projectized/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Jul 2016 08:21:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2016 17:50:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/projectized/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Think Smarter...Think Projectized]]></title>
             <description><![CDATA[<article><h1>Think Smarter...Think Projectized</h1><p>We help organizations in transforming their strategic objectives into actions by apply project management and PMO practices to improve business performance.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8fb31b528cfe1c4fec981670dcf520a9/croprotate.png?cropheight=2225&cropwidth=2498&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F94e00f1c-d6d6-406e-8981-cc897e2c4a6c.png&x=30&y=0"></article>]]></description>
-            <link>https://thegrid.ai/projectized/think-smarterthink-projectized/index.html</link>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/94e00f1c-d6d6-406e-8981-cc897e2c4a6c.png</link>
             <guid isPermaLink="false">9478e7e4-d0ea-4a37-b455-3cec17aec8b5</guid>
-            <pubDate>Mon, 04 Jul 2016 08:21:47 GMT</pubDate>
+            <pubDate>Mon, 04 Jul 2016 08:23:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[About Us]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9b66953bb6a50eb4a96f290dbdadb60280d322c2.jpg">]]></description>
+            <link>https://thegrid.ai/projectized/about-us/index.html</link>
+            <guid isPermaLink="false">28b62a1d-97cc-43fc-8f29-fff78782a00a</guid>
+            <pubDate>Mon, 04 Jul 2016 17:50:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Vision, Mission & Core Values]]></title>
@@ -68,13 +75,6 @@
             <link>http://elemental-projects.com.au/disaster-recovery-and-risk-management/?utm_content=bufferd6893&amp;utm_medium=social&amp;utm_source=linkedin.com&amp;utm_campaign=buffer</link>
             <guid isPermaLink="false">1c11a467-076a-4073-a792-e8f09354d65f</guid>
             <pubDate>Tue, 14 Jun 2016 03:24:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to create a project management Office]]></title>
-            <description><![CDATA[<article><h1>How to create a project management Office</h1><p>If we are performing work - internally or externally - that is helping to grow the company and yet we are struggling to accomplish this work because of poor communication, lack of detailed requirements or weak resource management and financial management of these efforts then it is likely that the organization could benefit greatly from the creation of a formal project management infrastructure.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f002e491195294c5f42756866ef292d4fdf78edb.png"></article>]]></description>
-            <link>http://www.cio.com/article/3062999/project-management/how-to-create-a-project-management-infrastructure-from-the-ground-up.html</link>
-            <guid isPermaLink="false">f3e3dfca-9d8a-4435-a512-4080b6894e24</guid>
-            <pubDate>Tue, 14 Jun 2016 03:07:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
