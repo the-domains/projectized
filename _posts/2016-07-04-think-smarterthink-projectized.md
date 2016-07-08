@@ -9,8 +9,8 @@ keywords: []
 description: >-
   We help organizations in transforming their strategic objectives into actions
   by apply project management and PMO practices to improve business performance.
-datePublished: '2016-07-06T01:28:31.526Z'
-dateModified: '2016-07-06T01:28:18.730Z'
+datePublished: '2016-07-08T16:05:02.738Z'
+dateModified: '2016-07-08T16:04:59.313Z'
 author:
   - name: ''
     url: ''
