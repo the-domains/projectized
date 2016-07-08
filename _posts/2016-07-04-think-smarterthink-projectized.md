@@ -9,8 +9,8 @@ keywords: []
 description: >-
   We help organizations in transforming their strategic objectives into actions
   by apply project management and PMO practices to improve business performance.
-datePublished: '2016-07-08T16:05:02.738Z'
-dateModified: '2016-07-08T16:04:59.313Z'
+datePublished: '2016-07-08T16:13:47.743Z'
+dateModified: '2016-07-08T16:13:39.522Z'
 author:
   - name: ''
     url: ''
@@ -22,8 +22,7 @@ starred: true
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9a01479d-2407-456b-af25-443e70d4c53c.jpg)
-
 # Think Smarter...Think Projectized
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9a01479d-2407-456b-af25-443e70d4c53c.jpg)
 
 We help organizations in transforming their strategic objectives into actions by apply project management and PMO practices to improve business performance.
