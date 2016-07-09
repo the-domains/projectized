@@ -9,10 +9,12 @@ keywords: []
 description: >-
   We help organizations in transforming their strategic objectives into actions
   by apply project management and PMO practices to improve business performance.
-datePublished: '2016-07-09T06:38:24.423Z'
-dateModified: '2016-07-09T06:38:18.158Z'
+datePublished: '2016-07-09T06:39:01.741Z'
+dateModified: '2016-07-09T06:38:51.083Z'
 title: Think Smarter...Think Projectized.
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-07-08-think-smarterthink-projectized.md
 authors: []
 publisher: null
