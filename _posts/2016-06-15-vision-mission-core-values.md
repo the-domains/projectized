@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Vision, Mission & Core Values'
-datePublished: '2016-07-04T23:25:51.609Z'
-dateModified: '2016-07-04T23:21:38.843Z'
+datePublished: '2016-07-10T08:09:13.914Z'
+dateModified: '2016-07-10T08:08:25.917Z'
 author:
   - name: ''
     url: ''
