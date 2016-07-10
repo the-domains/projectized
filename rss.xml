@@ -4,7 +4,7 @@
         <description><![CDATA[Projectized.co]]></description>
         <link>http://projectized.co/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Jul 2016 07:11:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Jul 2016 08:06:43 GMT</lastBuildDate>
         <atom:link href="http://projectized.co/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Think Smarter...Think Projectized.]]></title>
@@ -12,6 +12,13 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/1bb9a1d3-0bf6-4de7-8814-fc9792f27c8c.png</link>
             <guid isPermaLink="false">c30a1f44-6194-41d8-bc83-73cea387dc5c</guid>
             <pubDate>Sat, 09 Jul 2016 07:11:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Deltek Cobra 8 New Project View]]></title>
+            <description><![CDATA[<article><h1>Deltek Cobra 8 New Project View</h1><p>This release of Deltek Cobra takes a huge step forward towards ease of use with the new project view. The two biggest take-aways from the new project view are: You can see multiple resource assignments at one time on the screen (you use to have to run a report).</p></article>]]></description>
+            <link>https://tensix.com/2016/06/deltek-cobra-8-new-project-view/</link>
+            <guid isPermaLink="false">244adf89-3b40-4267-9fd3-c623af22c16c</guid>
+            <pubDate>Sun, 10 Jul 2016 08:06:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Vision, Mission & Core Values.]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.cio.com/article/3090026/project-management/9-good-reasons-to-start-the-project-late.html</link>
             <guid isPermaLink="false">dfb5bfda-4029-481d-bb27-13b10c103bd6</guid>
             <pubDate>Mon, 04 Jul 2016 23:10:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Resource Leveling - Can You or Should You Level?]]></title>
-            <description><![CDATA[<article><h1>Resource Leveling - Can You or Should You Level?</h1><p>Resource leveling is a hotly debated subject in the project management world. The comments range from one should never level resources - ever! To you can use leveling if you know the consequences. Or you should only level manually. So, what's the deal?? First, what is resource leveling?</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f63c4996a6b01ec8ce84b2bd870c0278/noop.jpg?input=http%3A%2F%2Fwww.projectinsight.net%2Farticles%2Farticlesshare%2Fi%2F2013%2Fdata-linegraph-computer.jpg"></article>]]></description>
-            <link>http://www.projectinsight.net/blogs/project-management-software-implementation-and-user-adoption-tips/resource-leveling-can-you-or-should-you-level</link>
-            <guid isPermaLink="false">478e29e9-59a7-4183-b2a4-3b23bfc69e17</guid>
-            <pubDate>Mon, 04 Jul 2016 23:09:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
