@@ -1,19 +1,19 @@
 ---
-description: 'Vision, Mission & Core Values'
-datePublished: '2016-07-13T01:38:57.429Z'
+inFeed: true
+hasPage: true
 inNav: true
 inLanguage: null
+keywords: []
+description: 'Vision, Mission & Core Values'
+datePublished: '2016-07-13T07:49:22.789Z'
+dateModified: '2016-07-13T07:49:18.599Z'
 author:
   - name: ''
     url: ''
 sourcePath: _posts/2016-06-15-vision-mission-core-values.md
-hasPage: true
-authors: []
 title: 'Vision, Mission & Core Values.'
+authors: []
 publisher: null
-keywords: []
-dateModified: '2016-07-13T01:38:51.388Z'
-inFeed: true
 starred: false
 url: vision-mission-and-core-values/index.html
 _type: Article
@@ -39,3 +39,5 @@ _**Partnership,**_
 _**Integrity,**_
 
 _**Quality.**_
+
+_****_
