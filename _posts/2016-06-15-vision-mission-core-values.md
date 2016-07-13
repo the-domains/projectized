@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Vision, Mission & Core Values'
-datePublished: '2016-07-13T13:05:04.416Z'
-dateModified: '2016-07-13T12:31:55.441Z'
+datePublished: '2016-07-13T13:20:51.039Z'
+dateModified: '2016-07-13T13:20:15.759Z'
 author:
   - name: ''
     url: ''
@@ -32,6 +32,8 @@ _**Serving our customers responsibly and attentively to achieve their objectives
 
 # Core Values:
 
+****
+
 **Projectized philosophy is ****Customer Centric ****based on :**
 
 _**Partnership,**_
@@ -39,4 +41,4 @@ _**Partnership,**_
 _**Integrity,**_
 
 _**Quality.**_
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/08e7ebfb-c96b-401d-ba65-e8a2a098e201.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a26c23e7-e7ca-47a9-88e8-846828989a4d.png)
