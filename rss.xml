@@ -4,7 +4,7 @@
         <description><![CDATA[Projectized.co]]></description>
         <link>http://projectized.co/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Jul 2016 01:09:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2016 01:16:28 GMT</lastBuildDate>
         <atom:link href="http://projectized.co/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Think Smarter...Think Projectized.]]></title>
@@ -12,6 +12,13 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/1bb9a1d3-0bf6-4de7-8814-fc9792f27c8c.png</link>
             <guid isPermaLink="false">c30a1f44-6194-41d8-bc83-73cea387dc5c</guid>
             <pubDate>Sat, 09 Jul 2016 07:11:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to Enable Your Team to Help You - ProjectManager.com]]></title>
+            <description><![CDATA[<article><h1>How to Enable Your Team to Help You - ProjectManager.com</h1><p>Leading a project can be overwhelming, but your team can be an asset to help you. If you let them! Leadership coach Susanne Madsen shows you how to engage your team in sharing project management responsibilities. Here's a shot of the whiteboard for your reference!</p><img src="https://www.projectmanager.com/wp-content/uploads/2016/02/How-to-Enable-Your-Team-to-Help-You-Out-Thumbnail.jpg"></article>]]></description>
+            <link>https://www.projectmanager.com/training/how-to-enable-your-team-to-help-you-out-leadership-training</link>
+            <guid isPermaLink="false">424d05a9-c472-4c09-a955-98f6be211f5d</guid>
+            <pubDate>Wed, 13 Jul 2016 01:15:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Vision, Mission & Core Values.]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.linkedin.com/pulse/pmos-do-loudest-video-evidence-craig-kilford</link>
             <guid isPermaLink="false">a05c0ef9-322d-4b18-aa49-c3dc999a14db</guid>
             <pubDate>Mon, 04 Jul 2016 23:10:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[9 good reasons to start the project late]]></title>
-            <description><![CDATA[<article><h1>9 good reasons to start the project late</h1><p>No one likes to delay the start of a project. No project manager likes to break the news to the customer that the customer - or the deliver organization - is not ready to start yet. It can set a bad first impression that is difficult to recover from.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1b34dd855997ff088e7890f626a6ea2043227d08.jpg"></article>]]></description>
-            <link>http://www.cio.com/article/3090026/project-management/9-good-reasons-to-start-the-project-late.html</link>
-            <guid isPermaLink="false">dfb5bfda-4029-481d-bb27-13b10c103bd6</guid>
-            <pubDate>Mon, 04 Jul 2016 23:10:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
