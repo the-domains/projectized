@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Vision, Mission & Core Values'
-datePublished: '2016-07-13T07:49:22.789Z'
-dateModified: '2016-07-13T07:49:18.599Z'
+datePublished: '2016-07-13T08:09:46.735Z'
+dateModified: '2016-07-13T08:07:51.299Z'
 author:
   - name: ''
     url: ''
@@ -39,5 +39,4 @@ _**Partnership,**_
 _**Integrity,**_
 
 _**Quality.**_
-
-_****_
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/08e7ebfb-c96b-401d-ba65-e8a2a098e201.png)
