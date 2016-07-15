@@ -1,16 +1,14 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/1bb9a1d3-0bf6-4de7-8814-fc9792f27c8c.png
 inLanguage: null
 keywords: []
 description: >-
   We help organizations in transforming their strategic objectives into actions
   by apply project management and PMO practices to improve business performance.
-datePublished: '2016-07-15T08:30:45.208Z'
-dateModified: '2016-07-15T08:30:39.731Z'
+datePublished: '2016-07-15T08:32:40.653Z'
+dateModified: '2016-07-15T08:32:36.179Z'
 title: Think Smarter...Think Projectized.
 author:
   - name: ''
@@ -19,7 +17,8 @@ sourcePath: _posts/2016-07-08-think-smarterthink-projectized.md
 authors: []
 publisher: null
 starred: false
-_type: MediaObject
+url: think-smarterthink-projectized/index.html
+_type: Article
 
 ---
 # Think Smarter...Think Projectized.
