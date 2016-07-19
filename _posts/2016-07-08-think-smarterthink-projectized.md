@@ -5,11 +5,15 @@ inNav: false
 inLanguage: null
 keywords: []
 description: >-
+  Business dynamics have been changing in the Egyptian market over the past few
+  years and with these changes it became clear that many firms; specially small
+  / medium sized & family businesses lack the capabilities and the necessary
+  resources to reach their strategic goals and healthy growth objectives.
+datePublished: '2016-07-19T08:39:43.596Z'
+dateModified: '2016-07-19T08:39:42.247Z'
+title: >-
   We help organizations in transforming their strategic objectives into actions
   by apply project management and PMO practices to improve business performance.
-datePublished: '2016-07-15T08:49:27.001Z'
-dateModified: '2016-07-15T08:49:23.568Z'
-title: Think Smarter...Think Projectized.
 author:
   - name: ''
     url: ''
@@ -21,12 +25,11 @@ url: think-smarterthink-projectized/index.html
 _type: Article
 
 ---
-# Think Smarter...Think Projectized.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1bb9a1d3-0bf6-4de7-8814-fc9792f27c8c.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e895a22c-a964-4e81-afbd-755e0885a1f1.png)
 
-We help organizations in transforming their strategic objectives into actions by apply project management and PMO practices to improve business performance.
+## We help organizations in transforming their strategic objectives into actions by apply project management and PMO practices to improve business performance.
 
-Business dynamics have been changing in the Egyptian market over the past few years and with these changes it became clear that many firms; specially small / medium sized & family businesses lack the capabilities and the necessary resources to reach their strategic goals and healthy growth objectives. 
+Business dynamics have been changing in the Egyptian market over the past few years and with these changes it became clear that many firms; specially small / medium sized & family businesses lack the capabilities and the necessary resources to reach their strategic goals and healthy growth objectives.
 
 It was clear that there were needs for "know how" to transform, enhance, develop and implement new approach to solve business constraints with new better proven methods to look at the customer with low cost model to outsource program / project activities in most essential business strategic needs, and to comply with Projectized.co initiatives.
 
