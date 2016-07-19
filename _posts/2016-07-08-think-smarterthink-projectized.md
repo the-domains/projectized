@@ -9,8 +9,8 @@ description: >-
   years and with these changes it became clear that many firms; specially small
   / medium sized & family businesses lack the capabilities and the necessary
   resources to reach their strategic goals and healthy growth objectives.
-datePublished: '2016-07-19T08:39:43.596Z'
-dateModified: '2016-07-19T08:39:42.247Z'
+datePublished: '2016-07-19T08:52:24.081Z'
+dateModified: '2016-07-19T08:52:14.925Z'
 title: >-
   We help organizations in transforming their strategic objectives into actions
   by apply project management and PMO practices to improve business performance.
