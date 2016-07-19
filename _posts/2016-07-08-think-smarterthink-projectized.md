@@ -9,8 +9,8 @@ description: >-
   years and with these changes it became clear that many firms; specially small
   / medium sized & family businesses lack the capabilities and the necessary
   resources to reach their strategic goals and healthy growth objectives.
-datePublished: '2016-07-19T09:05:45.966Z'
-dateModified: '2016-07-19T09:05:27.524Z'
+datePublished: '2016-07-19T09:08:12.029Z'
+dateModified: '2016-07-19T09:07:24.529Z'
 title: ''
 author:
   - name: ''
