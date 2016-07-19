@@ -9,11 +9,9 @@ description: >-
   years and with these changes it became clear that many firms; specially small
   / medium sized & family businesses lack the capabilities and the necessary
   resources to reach their strategic goals and healthy growth objectives.
-datePublished: '2016-07-19T09:01:47.180Z'
-dateModified: '2016-07-19T09:01:39.797Z'
-title: >-
-  We help organizations in transforming their strategic objectives into actions
-  by apply project management and PMO practices to improve business performance.
+datePublished: '2016-07-19T09:05:45.966Z'
+dateModified: '2016-07-19T09:05:27.524Z'
+title: ''
 author:
   - name: ''
     url: ''
@@ -25,9 +23,7 @@ url: think-smarterthink-projectized/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e895a22c-a964-4e81-afbd-755e0885a1f1.png)
-
-## We help organizations in transforming their strategic objectives into actions by apply project management and PMO practices to improve business performance.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bb7245d9-266e-4f32-b20d-cbbf0fb904f1.png)
 
 Business dynamics have been changing in the Egyptian market over the past few years and with these changes it became clear that many firms; specially small / medium sized & family businesses lack the capabilities and the necessary resources to reach their strategic goals and healthy growth objectives.
 
