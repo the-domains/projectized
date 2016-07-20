@@ -1,8 +1,34 @@
-name: Projectized.co
-favicon: null
-layout_spectrum: 0.63331
 typography_spectrum: 1
-title: Projectized.co
+color:
+  brandColors:
+    - '#ffffff'
+    - '#595959'
+    - '#969696'
+    - '#0f89eb'
+    - '#000000'
+  brandStrength: 1
+  lightness: 0.75
+  saturation: 0.125
+  rhythmicContrast: 0
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.63331
+analytics:
+  google: UA-80513059-1
+  facebook: null
+  twitter: null
+author:
+  name: Moemen Fouad
+  email: moemen@projectized.co
+  url: projectized.co
+name: Projectized.co
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
 collections:
   - index:
       path: /
@@ -15,27 +41,5 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-80513059-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#ffffff'
-    - '#595959'
-    - '#969696'
-    - '#0f89eb'
-    - '#000000'
-  brandStrength: 1
-  lightness: 0.75
-  saturation: 0.125
-  rhythmicContrast: 0
+title: Projectized.co
 purpose: []
