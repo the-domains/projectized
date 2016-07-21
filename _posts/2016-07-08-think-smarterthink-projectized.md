@@ -4,7 +4,7 @@ description: >-
   years and with these changes it became clear that many firms; specially small
   / medium sized & family businesses lack the capabilities and the necessary
   resources to reach their strategic goals and healthy growth objectives.
-datePublished: '2016-07-21T23:01:01.676Z'
+datePublished: '2016-07-21T23:01:14.872Z'
 inNav: false
 inLanguage: null
 author:
@@ -17,9 +17,9 @@ via: {}
 title: ''
 publisher: {}
 keywords: []
-dateModified: '2016-07-21T23:01:00.430Z'
+dateModified: '2016-07-21T23:01:13.442Z'
 inFeed: true
-starred: true
+starred: false
 url: we-help-organizations-in-transforming-their-strategic-object/index.html
 _type: Article
 
