@@ -4,8 +4,15 @@
         <description><![CDATA[Projectized.co]]></description>
         <link>http://projectized.co/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Jul 2016 16:49:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2016 16:50:17 GMT</lastBuildDate>
         <atom:link href="http://projectized.co/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Executing Strategy: The Journey to Excellence]]></title>
+            <description><![CDATA[<article><h1>Executing Strategy: The Journey to Excellence</h1><p>As the saying goes, "good ideas are a-dime-a-dozen." Having a good idea simply doesn't mean much unless it can be translated into results in the real world. Strategic plans that can't be executed are largely useless.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/96ceb88344589abb2fb11005520e0af9/noop.jpg?input=https%3A%2F%2Fmedia.licdn.com%2Fmpr%2Fmpr%2FAAEAAQAAAAAAAAg6AAAAJDhlMTgwNzJlLTY1OWItNDEwMS04NzgyLThjYjk5N2JmZGUxNw.jpg"></article>]]></description>
+            <link>https://www.linkedin.com/pulse/exclusive-opportunity-learn-secrets-executing-john-schlichter-opm3</link>
+            <guid isPermaLink="false">3266fb04-b7df-4273-a4b3-43b8de8e39ee</guid>
+            <pubDate>Fri, 22 Jul 2016 16:50:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The future of AI apps will be delivery as a service]]></title>
             <description><![CDATA[<article><h1>The future of AI apps will be delivery as a service</h1><p>Artificial intelligence has turned into one of this year's hottest trends in advanced analytics, but the technology being rolled out today may not be what many people imagine it to be. Speakers at Dataversity's Smart Data Online said the future of AI apps is going to be intelligent applications delivered as a service.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e1b2a305372d6b3f1f72447ee03bad658bab9e5a.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://elemental-projects.com.au/disaster-recovery-and-risk-management/?utm_content=bufferd6893&amp;utm_medium=social&amp;utm_source=linkedin.com&amp;utm_campaign=buffer</link>
             <guid isPermaLink="false">1c11a467-076a-4073-a792-e8f09354d65f</guid>
             <pubDate>Mon, 04 Jul 2016 23:13:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[11 best practices to improve any project anywhere]]></title>
-            <description><![CDATA[<article><h1>11 best practices to improve any project anywhere</h1><p>No matter where you are on the project, no matter how well or how poorly things are going at the moment, there is always something you can be doing or should be doing to improve the project. It can be very easy to start going through the motions if the project is on auto pilot or even if it's going horribly wrong.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ba6442aaeea472efbc957fb43802fb0b876ed85a.jpg"></article>]]></description>
-            <link>http://www.cio.com/article/3082037/project-management/11-best-practices-to-improve-any-project-anywhere.html</link>
-            <guid isPermaLink="false">7a69c093-2b7d-42d4-b365-3539272aa095</guid>
-            <pubDate>Mon, 04 Jul 2016 23:12:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
