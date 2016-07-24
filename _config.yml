@@ -41,6 +41,10 @@ navigation:
     url: 2016-06-25-contact-us.html
     name: Contact Us
     type: content
+  - id: 98c8b3ee-c65b-41d8-b50f-d16978e3b648
+    url: 2016-07-15-about-us.html
+    name: About Us
+    type: content
 favicon: null
 collections:
   - index:
