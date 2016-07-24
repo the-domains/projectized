@@ -37,6 +37,10 @@ navigation:
       https://www.linkedin.com/company/10684341?trk=tyah&trkInfo=clickedVertical%3Acompany%2CclickedEntityId%3A10684341%2Cidx%3A1-1-1%2CtarId%3A1469361573377%2Ctas%3Aprojectized
     name: Linkedin
     type: external
+  - id: c6bc708d-5e44-4b97-ab83-d2e92d2f0ad2
+    url: 2016-06-25-contact-us.html
+    name: Contact Us
+    type: content
 favicon: null
 collections:
   - index:
