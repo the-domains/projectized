@@ -53,6 +53,10 @@ navigation:
     url: 2016-06-15-vision-mission-core-values.html
     name: 'Vision, Mission & Core Values.'
     type: content
+  - id: c30a1f44-6194-41d8-bc83-73cea387dc5c
+    url: 2016-07-08-think-smarterthink-projectized.html
+    name: Home
+    type: content
 favicon: null
 collections:
   - index:
