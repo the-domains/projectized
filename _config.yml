@@ -49,13 +49,13 @@ navigation:
     url: 2016-07-04-services.html
     name: Services
     type: content
-  - id: 4d3d42cf-1f48-466d-a099-4781ac01207f
-    url: 2016-06-15-vision-mission-core-values.html
-    name: 'Vision, Mission & Core Values.'
-    type: content
   - id: c30a1f44-6194-41d8-bc83-73cea387dc5c
     url: 2016-07-08-think-smarterthink-projectized.html
     name: Home
+    type: content
+  - id: 4d3d42cf-1f48-466d-a099-4781ac01207f
+    url: 2016-06-15-vision-mission-core-values.html
+    name: 'Vision, Mission & Core Values.'
     type: content
 favicon: null
 collections:
