@@ -45,6 +45,10 @@ navigation:
     url: 2016-07-15-about-us.html
     name: About Us
     type: content
+  - id: aafa5558-f231-404f-bd7d-9514deed8548
+    url: 2016-07-04-services.html
+    name: Services
+    type: content
 favicon: null
 collections:
   - index:
