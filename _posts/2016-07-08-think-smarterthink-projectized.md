@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-24T10:27:04.643Z'
+datePublished: '2016-07-24T12:11:55.163Z'
 sourcePath: _posts/2016-07-08-think-smarterthink-projectized.md
 inFeed: true
 authors: []
@@ -9,7 +9,7 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-07-24T10:27:04.112Z'
+dateModified: '2016-07-24T12:11:54.601Z'
 title: ''
 publisher: {}
 description: >-
