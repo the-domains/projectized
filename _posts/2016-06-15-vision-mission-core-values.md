@@ -1,20 +1,24 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-07-24T12:11:19.425Z'
-dateModified: '2016-07-24T12:11:18.867Z'
+datePublished: '2016-07-24T12:17:51.505Z'
+dateModified: '2016-07-24T12:17:44.718Z'
 author:
   - name: ''
     url: ''
 sourcePath: _posts/2016-06-15-vision-mission-core-values.md
 title: 'Vision, Mission & Core Values.'
-authors: []
-publisher: {}
 via: {}
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
 starred: false
 url: vision-mission-and-core-values/index.html
 _type: Article
