@@ -49,6 +49,10 @@ navigation:
     url: 2016-07-04-services.html
     name: Services
     type: content
+  - id: 4d3d42cf-1f48-466d-a099-4781ac01207f
+    url: 2016-06-15-vision-mission-core-values.html
+    name: 'Vision, Mission & Core Values.'
+    type: content
 favicon: null
 collections:
   - index:
