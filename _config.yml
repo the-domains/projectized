@@ -1,5 +1,43 @@
-title: Projectized.co
-purpose: []
+typography_spectrum: 1
+color:
+  saturation: 0.125
+  brandStrength: 1
+  lightness: 0.75
+  brandColors:
+    - '#2E3192'
+    - '#1C1E59'
+    - '#030309'
+    - '#C81F30'
+    - '#6E101B'
+  rhythmicContrast: 0
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.63331
+analytics:
+  twitter: '#Projectized.co'
+  google: UA-80513059-1
+  facebook: null
+author:
+  name: ''
+  email: ''
+  url: ''
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/f1111b68-8fae-49b1-8eb7-9d3333f3cc27.png
+name: Projectized.co
+cta:
+  bucket: null
+  version: null
+  domain: null
+navigation:
+  - id: >-
+      https://www.linkedin.com/company/10684341?trk=tyah&trkInfo=clickedVertical%3Acompany%2CclickedEntityId%3A10684341%2Cidx%3A1-1-1%2CtarId%3A1469361573377%2Ctas%3Aprojectized
+    url: >-
+      https://www.linkedin.com/company/10684341?trk=tyah&trkInfo=clickedVertical%3Acompany%2CclickedEntityId%3A10684341%2Cidx%3A1-1-1%2CtarId%3A1469361573377%2Ctas%3Aprojectized
+    name: Linkedin
+    type: external
+favicon: null
 collections:
   - index:
       path: /
@@ -12,37 +50,5 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-color:
-  saturation: 0.125
-  brandStrength: 1
-  lightness: 0.75
-  brandColors:
-    - '#2E3192'
-    - '#1C1E59'
-    - '#030309'
-    - '#C81F30'
-    - '#6E101B'
-  rhythmicContrast: 0
-cta:
-  bucket: null
-  version: null
-  domain: null
-navigation: []
-favicon: null
-name: Projectized.co
-author:
-  name: ''
-  email: ''
-  url: ''
-opengraph:
-  image: null
-  type: null
-  appId: null
-analytics:
-  twitter: '#Projectized.co'
-  google: UA-80513059-1
-  facebook: null
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/f1111b68-8fae-49b1-8eb7-9d3333f3cc27.png
-typography_spectrum: 1
-layout_spectrum: 0.63331
+title: Projectized.co
+purpose: []
