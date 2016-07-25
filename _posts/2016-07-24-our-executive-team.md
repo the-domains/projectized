@@ -1,25 +1,32 @@
 ---
-author: []
-dateModified: '2016-07-24T17:26:40.778Z'
-via: {}
-title: Our Executive Team
-isBasedOnUrl: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/9befa85f-231d-4410-a117-209e788dda7f.jpg
-publisher: {}
+inFeed: false
+hasPage: true
+inNav: true
+inLanguage: null
+keywords: []
 description: >-
   We at Projectized.co started to carve our areas of expertise & experiences
   into a services portfolio designed to address our customers’ needs. Approach
   them with Projectized.co services portfolio, with proper cost and to undertake
   the responsibility of achieving their strategic goals.
-datePublished: '2016-07-24T17:26:44.031Z'
-starred: false
+datePublished: '2016-07-25T12:27:16.628Z'
+dateModified: '2016-07-25T12:27:08.041Z'
+author: []
+via: {}
+title: Our Executive Team
 sourcePath: _posts/2016-07-24-our-executive-team.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+starred: false
+url: our-executive-team/index.html
+_type: WebPage
 
 ---
+# About Us
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9befa85f-231d-4410-a117-209e788dda7f.jpg)
 
 We at Projectized.co started to carve our areas of expertise & experiences into a services portfolio designed to address our customers' needs. Approach them with Projectized.co services portfolio, with proper cost and to undertake the responsibility of achieving their strategic goals.
