@@ -1,19 +1,23 @@
 ---
-datePublished: '2016-07-26T10:48:23.398Z'
+inFeed: true
+hasPage: true
+inNav: true
+inLanguage: null
+keywords: []
+description: 'Vision, Mission & Core Values.'
+datePublished: '2016-07-26T10:58:28.750Z'
+dateModified: '2016-07-26T10:58:23.093Z'
 sourcePath: >-
   _posts/2016-07-25-vision-to-be-recognized-as-one-of-the-top-10-consulting-fi.md
-inFeed: true
-authors: []
-hasPage: true
-keywords: []
 author: []
 via: {}
-dateModified: '2016-07-26T10:48:22.698Z'
 title: 'Vision, Mission, & Core Values'
-publisher: {}
-description: 'Vision, Mission & Core Values.'
-inLanguage: null
-inNav: false
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
 starred: false
 url: vision-mission-and-core-values/index.html
 _type: Article
