@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Vision, Mission & Core Values.'
-datePublished: '2016-07-26T10:58:28.750Z'
-dateModified: '2016-07-26T10:58:23.093Z'
+datePublished: '2016-07-26T11:15:29.418Z'
+dateModified: '2016-07-26T11:15:16.674Z'
 sourcePath: >-
   _posts/2016-07-25-vision-to-be-recognized-as-one-of-the-top-10-consulting-fi.md
 author: []
