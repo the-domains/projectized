@@ -1,18 +1,27 @@
 ---
-datePublished: '2016-07-26T09:47:57.072Z'
+inFeed: false
+hasPage: true
+inNav: true
+inLanguage: null
+keywords: []
+description: >-
+  Address:  Egypt, Cairo, Maadi, Building # 10, Street #72. Area Code: 11431 
+  Email:  Info@Projectized.co  Phone: (+2) 01-020-900-456 & (+2)01-065-501-623
+datePublished: '2016-07-26T11:13:57.556Z'
+dateModified: '2016-07-26T11:13:49.682Z'
 sourcePath: _posts/2016-07-26-contact-us.md
 author: []
 via: {}
-dateModified: '2016-07-26T09:47:56.404Z'
 title: Contact Us
-publisher: {}
-description: >-
-  Address: Egypt, Cairo, Maadi, Building # 10, Street #72. Area Code: 11431
-  Email: Info@Projectized.co Phone: (+2) 01-020-900-456 & (+2)01-065-501-623
-hasPage: true
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
 starred: false
 url: contact-us/index.html
-_type: MediaObject
+_type: WebPage
 
 ---
 # Contact Us
