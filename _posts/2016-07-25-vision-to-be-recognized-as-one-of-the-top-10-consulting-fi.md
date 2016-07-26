@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-26T09:44:20.202Z'
+datePublished: '2016-07-26T09:54:42.189Z'
 sourcePath: >-
   _posts/2016-07-25-vision-to-be-recognized-as-one-of-the-top-10-consulting-fi.md
 inFeed: true
@@ -8,7 +8,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-07-26T09:44:19.350Z'
+dateModified: '2016-07-26T09:54:41.422Z'
 title: 'Vision, Mission, & Core Values'
 publisher: {}
 description: 'Vision, Mission & Core Values.'
