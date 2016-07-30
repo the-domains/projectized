@@ -31,11 +31,9 @@ cta:
   version: null
   domain: null
 navigation:
-  - id: >-
-      https://www.linkedin.com/company/10684341?trk=tyah&trkInfo=clickedVertical%3Acompany%2CclickedEntityId%3A10684341%2Cidx%3A1-1-1%2CtarId%3A1469361573377%2Ctas%3Aprojectized
+  - name: Linkedin
     url: >-
       https://www.linkedin.com/company/10684341?trk=tyah&trkInfo=clickedVertical%3Acompany%2CclickedEntityId%3A10684341%2Cidx%3A1-1-1%2CtarId%3A1469361573377%2Ctas%3Aprojectized
-    name: Linkedin
     type: external
 favicon: null
 collections:
@@ -51,4 +49,5 @@ collections:
     permalink:
       path: '/:title/'
 title: Projectized.co
+description: Taking Business Forward
 purpose: []
