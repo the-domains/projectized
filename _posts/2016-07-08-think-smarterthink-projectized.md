@@ -1,15 +1,13 @@
 ---
-datePublished: '2016-07-30T21:06:12.641Z'
+datePublished: '2016-07-31T18:57:53.327Z'
 sourcePath: _posts/2016-07-08-think-smarterthink-projectized.md
 inFeed: true
 authors: []
 hasPage: true
 keywords: []
-author:
-  - name: ''
-    url: ''
+author: []
 via: {}
-dateModified: '2016-07-30T21:06:11.699Z'
+dateModified: '2016-07-31T18:57:51.929Z'
 title: ''
 publisher: {}
 description: >-
@@ -24,7 +22,7 @@ url: we-help-organizations-in-transforming-their-strategic-object/index.html
 _type: Article
 
 ---
-![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/93df4b4bb7744d5f867af6397959b0ec/croprotate.png?cropheight=864&cropwidth=1390&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fbb7245d9-266e-4f32-b20d-cbbf0fb904f1.png&x=0&y=0)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/645b332c-0352-4e95-8bd9-90a05223c977.png)
 
 Business dynamics have been changing in the Egyptian market over the past few years and with these changes it became clear that many firms; specially small / medium sized & family businesses lack the capabilities and the necessary resources to reach their strategic goals and healthy growth objectives.
 
