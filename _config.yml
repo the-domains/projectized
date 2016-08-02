@@ -31,13 +31,13 @@ cta:
   version: null
   domain: null
 navigation:
+  - name: About Us
+    id: af3b9928-fe37-4eab-9846-ca5e0d71f825
+    type: content
   - name: Linkedin
     url: >-
       https://www.linkedin.com/company/10684341?trk=tyah&trkInfo=clickedVertical%3Acompany%2CclickedEntityId%3A10684341%2Cidx%3A1-1-1%2CtarId%3A1469361573377%2Ctas%3Aprojectized
     type: external
-  - name: About Us
-    id: af3b9928-fe37-4eab-9846-ca5e0d71f825
-    type: content
   - name: 'Vision, Mission, & Core Values'
     id: 10689ad2-0e1f-40ce-aa05-ebd454f1b41e
     type: content
