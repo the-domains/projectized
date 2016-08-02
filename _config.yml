@@ -41,6 +41,9 @@ navigation:
   - name: Contact Us
     id: d1f339a2-2875-477c-84c5-0d43cb067993
     type: content
+  - name: Services
+    id: 91c4161b-6ae5-426c-b0b9-947b21478a90
+    type: content
 favicon: null
 collections:
   - index:
