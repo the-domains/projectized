@@ -44,6 +44,9 @@ navigation:
   - name: Services
     id: 91c4161b-6ae5-426c-b0b9-947b21478a90
     type: content
+  - name: About Us
+    id: af3b9928-fe37-4eab-9846-ca5e0d71f825
+    type: content
 favicon: null
 collections:
   - index:
