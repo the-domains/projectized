@@ -7,8 +7,8 @@ keywords: []
 description: >-
   Address: Egypt, Cairo, Maadi, Building # 10, Street #72. Area Code: 11431
   Email: Info@Projectized.co Phone: (+2) 01-020-900-456 & (+2)01-065-501-623
-datePublished: '2016-08-02T10:12:43.254Z'
-dateModified: '2016-08-02T10:10:43.612Z'
+datePublished: '2016-08-02T10:13:27.565Z'
+dateModified: '2016-08-02T10:13:27.021Z'
 sourcePath: _posts/2016-07-26-contact-us.md
 author: []
 via: {}
