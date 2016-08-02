@@ -38,6 +38,9 @@ navigation:
   - name: 'Vision, Mission, & Core Values'
     id: 10689ad2-0e1f-40ce-aa05-ebd454f1b41e
     type: content
+  - name: Contact Us
+    id: d1f339a2-2875-477c-84c5-0d43cb067993
+    type: content
 favicon: null
 collections:
   - index:
