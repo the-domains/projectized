@@ -47,6 +47,9 @@ navigation:
   - name: Contact Us
     id: d1f339a2-2875-477c-84c5-0d43cb067993
     type: content
+  - name: Home
+    id: c30a1f44-6194-41d8-bc83-73cea387dc5c
+    type: content
 favicon: null
 collections:
   - index:
