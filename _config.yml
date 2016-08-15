@@ -31,12 +31,12 @@ cta:
   version: null
   domain: null
 navigation:
-  - name: About Us
-    id: af3b9928-fe37-4eab-9846-ca5e0d71f825
-    type: content
   - name: Home
     url: 'http://projectized.co'
     type: external
+  - name: About Us
+    id: af3b9928-fe37-4eab-9846-ca5e0d71f825
+    type: content
   - name: Services
     id: 91c4161b-6ae5-426c-b0b9-947b21478a90
     type: content
