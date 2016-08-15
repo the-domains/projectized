@@ -47,6 +47,9 @@ navigation:
   - name: Contact Us
     id: d1f339a2-2875-477c-84c5-0d43cb067993
     type: content
+  - name: Home
+    url: 'http://projectized.co'
+    type: external
 favicon: null
 collections:
   - index:
