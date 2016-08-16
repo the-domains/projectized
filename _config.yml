@@ -31,11 +31,11 @@ cta:
   version: null
   domain: null
 navigation:
-  - name: Home
-    id: c30a1f44-6194-41d8-bc83-73cea387dc5c
-    type: content
   - name: Services
     id: 91c4161b-6ae5-426c-b0b9-947b21478a90
+    type: content
+  - name: Home
+    id: c30a1f44-6194-41d8-bc83-73cea387dc5c
     type: content
   - name: 'Vision, Mission, & Core Values'
     id: 10689ad2-0e1f-40ce-aa05-ebd454f1b41e
