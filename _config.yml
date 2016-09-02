@@ -1,35 +1,29 @@
-typography_spectrum: 1
+title: Projectized.co
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+description: Taking Business Forward
 color:
   saturation: 0.125
   brandStrength: 1
-  lightness: 0.75
+  rhythmicContrast: 0
   brandColors:
     - '#2E3192'
     - '#1C1E59'
     - '#030309'
     - '#C81F30'
     - '#6E101B'
-  rhythmicContrast: 0
-opengraph:
-  image: null
-  type: null
-  appId: null
-layout_spectrum: 0.63331
-analytics:
-  twitter: '#Projectized.co'
-  google: UA-80513059-1
-  facebook: null
-author:
-  name: ''
-  email: ''
-  url: ''
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/f1111b68-8fae-49b1-8eb7-9d3333f3cc27.png
-name: Projectized.co
-cta:
-  bucket: null
-  version: null
-  domain: null
+  lightness: 0.75
 navigation:
   - name: Services
     id: 91c4161b-6ae5-426c-b0b9-947b21478a90
@@ -50,19 +44,25 @@ navigation:
   - name: Contact Us
     id: d1f339a2-2875-477c-84c5-0d43cb067993
     type: content
+cta:
+  bucket: null
+  version: null
+  domain: null
+name: Projectized.co
+author:
+  name: ''
+  email: ''
+  url: ''
 favicon: null
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-    permalink:
-      path: '/:title/'
-title: Projectized.co
-description: Taking Business Forward
-purpose: []
+opengraph:
+  image: null
+  type: null
+  appId: null
+analytics:
+  twitter: '#Projectized.co'
+  google: UA-80513059-1
+  facebook: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/f1111b68-8fae-49b1-8eb7-9d3333f3cc27.png
+typography_spectrum: 0.8351254
+layout_spectrum: 0.63331
