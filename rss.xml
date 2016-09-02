@@ -4,7 +4,7 @@
         <description><![CDATA[Projectized.co]]></description>
         <link>http://projectized.co/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Aug 2016 16:06:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2016 15:12:55 GMT</lastBuildDate>
         <atom:link href="http://projectized.co/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[We help organizations in transforming their strategic objectives into actions by apply project management and PMO practices to improve business performance.]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Mon, 15 Aug 2016 22:23:44 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[How to Improve Your Projects with Technology]]></title>
+            <description><![CDATA[<article><h1>How to Improve Your Projects with Technology</h1><p>As a project manager, all the tasks you must accomplish everyday may be overwhelming as you have to deal with your own workload, plus your team's needs. So it's no surprise if technology has to become your best friend. It can provide you with tools and services ready to improve your management skills.</p><img src="http://i2.wp.com/d1fhzurqmm0rwe.cloudfront.net/wp-content/uploads/2016/08/IMPROVE_PROJECT_TECHNOLOGY.jpg?fit=1008%2C611&ssl=1"></article>]]></description>
+            <link>http://project-management.com/how-to-improve-your-projects-with-technology/</link>
+            <guid isPermaLink="false">bee4f9f9-0eb4-4e56-b8e2-334871d2ed12</guid>
+            <pubDate>Tue, 30 Aug 2016 15:12:20 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The Best Thing Ever Written About Strategy]]></title>
-            <description><![CDATA[<article><h1>The Best Thing Ever Written About Strategy</h1><p>This weekend, I've been revisiting my misspent youth, by reading again the musings of Bruce Doolin Henderson and his colleagues from the Boston Consulting Group (BCG) in its early years.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/040655c5e32e934816282d13073050346de48e59.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>The Best Thing Ever Written About Strategy</h1><p>This weekend, I've been revisiting my misspent youth, by reading again the musings of Bruce Doolin Henderson and his colleagues from the Boston Consulting Group (BCG) in its early years.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/90eb224cea3d995abee740a2035e3bdd/croprotate.jpg?cropheight=828&cropwidth=920&degrees=0&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F040655c5e32e934816282d13073050346de48e59.jpg&x=8&y=0"></article>]]></description>
             <link>http://m.huffpost.com/us/entry/6138152</link>
             <guid isPermaLink="false">bfb880f8-a972-4f2d-a211-a9a78aa109d6</guid>
             <pubDate>Wed, 24 Aug 2016 16:06:00 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://tensix.com/2016/06/deltek-cobra-8-new-project-view/</link>
             <guid isPermaLink="false">244adf89-3b40-4267-9fd3-c623af22c16c</guid>
             <pubDate>Sun, 10 Jul 2016 08:07:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to create a project management Office]]></title>
-            <description><![CDATA[<article><h1>How to create a project management Office</h1><p>If we are performing work - internally or externally - that is helping to grow the company and yet we are struggling to accomplish this work because of poor communication, lack of detailed requirements or weak resource management and financial management of these efforts then it is likely that the organization could benefit greatly from the creation of a formal project management infrastructure.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f002e491195294c5f42756866ef292d4fdf78edb.png"></article>]]></description>
-            <link>http://www.cio.com/article/3062999/project-management/how-to-create-a-project-management-infrastructure-from-the-ground-up.html</link>
-            <guid isPermaLink="false">f3e3dfca-9d8a-4435-a512-4080b6894e24</guid>
-            <pubDate>Mon, 04 Jul 2016 23:20:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
