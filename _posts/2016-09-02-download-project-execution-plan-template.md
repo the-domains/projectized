@@ -1,7 +1,7 @@
 ---
 title: Download Project Execution Plan Template
-datePublished: '2016-09-02T18:20:28.037Z'
-dateModified: '2016-08-31T17:43:31.452Z'
+datePublished: '2017-03-04T22:08:15.061Z'
+dateModified: '2017-03-04T22:08:13.465Z'
 author:
   - name: Managers Inn
     url: 'http://www.projectmanagementinn.com/author/pminn/'
@@ -14,11 +14,10 @@ description: >-
   of Microsoft template been use for this purpose.
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-09-02-download-project-execution-plan-template.md
 inFeed: true
-hasPage: false
-inNav: false
+starred: false
+datePublishedOriginal: '2016-09-02T18:20:28.037Z'
 _type: MediaObject
 
 ---
