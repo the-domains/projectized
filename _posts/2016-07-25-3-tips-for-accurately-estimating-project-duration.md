@@ -1,7 +1,7 @@
 ---
 title: 3 Tips for Accurately Estimating Project Duration
-datePublished: '2016-07-25T19:27:07.061Z'
-dateModified: '2016-07-25T19:26:42.359Z'
+datePublished: '2017-03-04T22:08:15.076Z'
+dateModified: '2017-03-04T22:08:13.465Z'
 author:
   - name: Gulit Upadhyay
     url: 'http://project-management.com/author/gulitupadhyay/'
@@ -15,11 +15,10 @@ description: >-
   manager once to realize that doesn't work.
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-07-25-3-tips-for-accurately-estimating-project-duration.md
 inFeed: true
-hasPage: false
-inNav: false
+starred: false
+datePublishedOriginal: '2016-07-25T19:27:07.061Z'
 _type: MediaObject
 
 ---
