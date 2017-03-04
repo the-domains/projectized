@@ -1,7 +1,7 @@
 ---
 title: 'The Project Management Estimation Key: Assure Stakeholders Buy In'
-datePublished: '2016-07-21T09:00:33.165Z'
-dateModified: '2016-07-21T08:59:35.981Z'
+datePublished: '2017-03-04T22:08:15.086Z'
+dateModified: '2017-03-04T22:08:13.465Z'
 author:
   - name: 'Ricardo Sastre Martin (Madrid, Spain)'
     url: null
@@ -14,12 +14,11 @@ description: >-
   not the starting point we like to have as project managers!
 publisher: {}
 via: {}
-starred: false
 sourcePath: >-
   _posts/2016-07-21-the-project-management-estimation-key-assure-stakeholders-b.md
 inFeed: true
-hasPage: false
-inNav: false
+starred: false
+datePublishedOriginal: '2016-07-21T09:00:33.165Z'
 _type: MediaObject
 
 ---
