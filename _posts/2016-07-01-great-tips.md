@@ -1,7 +1,6 @@
 ---
 inFeed: true
 hasPage: false
-inNav: false
 isBasedOnUrl: >-
   http://www.cio.com/article/3090026/project-management/9-good-reasons-to-start-the-project-late.html
 inLanguage: null
@@ -11,17 +10,19 @@ description: >-
   break the news to the customer that the customer - or the deliver organization
   - is not ready to start yet. It can set a bad first impression that is
   difficult to recover from.
-datePublished: '2016-07-04T23:10:10.061Z'
-dateModified: '2016-07-04T23:10:04.178Z'
-title: ''
+datePublished: '2017-03-04T22:08:15.091Z'
+dateModified: '2017-03-04T22:08:13.465Z'
+title: 9 good reasons to start the project late
 author:
   - name: Brad Egeland
     url: 'http://www.cio.com/author/Brad-Egeland/'
     avatar: {}
 sourcePath: _posts/2016-07-01-great-tips.md
 authors: []
-publisher: null
+publisher: {}
+via: {}
 starred: false
+datePublishedOriginal: '2016-07-04T23:10:10.061Z'
 _type: MediaObject
 
 ---
