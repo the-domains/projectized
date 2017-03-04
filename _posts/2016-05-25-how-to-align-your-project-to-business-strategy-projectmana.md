@@ -1,7 +1,6 @@
 ---
 inFeed: true
 hasPage: false
-inNav: false
 isBasedOnUrl: >-
   https://www.projectmanager.com/training/how-to-align-your-project-to-business-strategy?utm_medium=referral&utm_source=linkedin.com&utm_campaign=newsletter
 inLanguage: null
@@ -12,8 +11,8 @@ description: >-
   how. Here's a shot of the whiteboard for your reference! Jennifer started the
   tutorial noting why it's important to align your project to core strategic
   goals of the operation you are working to support.
-datePublished: '2016-07-04T23:13:15.940Z'
-dateModified: '2016-07-04T23:13:01.429Z'
+datePublished: '2017-03-04T22:08:15.095Z'
+dateModified: '2017-03-04T22:08:13.465Z'
 title: How to Align Your Project To Business Strategy - ProjectManager.com
 author:
   - name: ''
@@ -21,8 +20,10 @@ author:
 sourcePath: >-
   _posts/2016-05-25-how-to-align-your-project-to-business-strategy-projectmana.md
 authors: []
-publisher: null
+publisher: {}
+via: {}
 starred: false
+datePublishedOriginal: '2016-07-04T23:13:15.940Z'
 _type: MediaObject
 
 ---
