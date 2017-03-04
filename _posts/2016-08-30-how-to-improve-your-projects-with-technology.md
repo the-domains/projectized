@@ -1,7 +1,7 @@
 ---
 title: How to Improve Your Projects with Technology
-datePublished: '2016-08-30T15:12:20.169Z'
-dateModified: '2016-08-30T15:11:48.234Z'
+datePublished: '2017-03-04T22:08:15.074Z'
+dateModified: '2017-03-04T22:08:13.465Z'
 author:
   - name: Elaina Meiser
     url: 'http://project-management.com/author/elainameiser/'
@@ -15,11 +15,10 @@ description: >-
   skills.
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-30-how-to-improve-your-projects-with-technology.md
 inFeed: true
-hasPage: false
-inNav: false
+starred: false
+datePublishedOriginal: '2016-08-30T15:12:20.169Z'
 _type: MediaObject
 
 ---
