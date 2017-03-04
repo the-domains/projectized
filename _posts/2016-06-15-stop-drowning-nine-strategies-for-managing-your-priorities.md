@@ -1,7 +1,6 @@
 ---
 inFeed: true
 hasPage: false
-inNav: false
 isBasedOnUrl: >-
   http://businessguruclub.info/stop-drowning-nine-strategies-for-managing-your-priorities/
 inLanguage: null
@@ -10,8 +9,8 @@ description: >-
   I just got off the phone with Susan. She is a well-meaning, big-hearted,
   caring, effective and creative sales manager. Susan is also exhausted.Her day
   is packed with conflicting priorities, all demanding her time.
-datePublished: '2016-07-04T23:11:50.480Z'
-dateModified: '2016-07-04T23:11:12.227Z'
+datePublished: '2017-03-04T22:08:15.092Z'
+dateModified: '2017-03-04T22:08:13.465Z'
 title: 'Stop Drowning: Nine Strategies For Managing Your Priorities'
 author:
   - name: BusinessGuruClub
@@ -20,8 +19,10 @@ author:
 sourcePath: >-
   _posts/2016-06-15-stop-drowning-nine-strategies-for-managing-your-priorities.md
 authors: []
-publisher: null
+publisher: {}
+via: {}
 starred: false
+datePublishedOriginal: '2016-07-04T23:11:50.480Z'
 _type: MediaObject
 
 ---
