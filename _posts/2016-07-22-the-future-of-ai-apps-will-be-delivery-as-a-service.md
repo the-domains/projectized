@@ -1,7 +1,7 @@
 ---
 title: The future of AI apps will be delivery as a service
-datePublished: '2016-07-22T16:49:08.128Z'
-dateModified: '2016-07-21T17:30:58.438Z'
+datePublished: '2017-03-04T22:08:15.084Z'
+dateModified: '2017-03-04T22:08:13.465Z'
 author: []
 isBasedOnUrl: >-
   http://searchbusinessanalytics.techtarget.com/news/450300706/The-future-of-AI-apps-will-be-delivery-as-a-service?utm_medium=EM&asrc=EM_NLN_61224142&utm_campaign=20160721_AI%20future%20hinges%20on%20intelligent%20applications;%20where%20CDOs%20fit%20on%20IT%20teams_jbiscobing&utm_source=NLN&track=NL-1816&ad=908987&src=908987
@@ -13,11 +13,10 @@ description: >-
   service.
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-07-22-the-future-of-ai-apps-will-be-delivery-as-a-service.md
 inFeed: true
-hasPage: false
-inNav: false
+starred: false
+datePublishedOriginal: '2016-07-22T16:49:08.128Z'
 _type: MediaObject
 
 ---
