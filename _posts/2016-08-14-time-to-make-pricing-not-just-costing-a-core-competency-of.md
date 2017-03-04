@@ -1,7 +1,7 @@
 ---
 title: 'Time to Make Pricing, Not Just Costing, a Core Competency of the Agency'
-datePublished: '2016-08-14T15:15:10.027Z'
-dateModified: '2016-08-14T15:14:53.350Z'
+datePublished: '2017-03-04T22:08:15.034Z'
+dateModified: '2017-03-04T22:08:13.465Z'
 author:
   - name: Tim Williams
     url: 'http://www.ipa.co.uk/blog/authors/tim-williams'
@@ -14,12 +14,11 @@ description: >-
   not just accounting -- as a core function of their organisations.
 publisher: {}
 via: {}
-starred: false
 sourcePath: >-
   _posts/2016-08-14-time-to-make-pricing-not-just-costing-a-core-competency-of.md
 inFeed: true
-hasPage: false
-inNav: false
+starred: false
+datePublishedOriginal: '2016-08-14T15:15:10.027Z'
 _type: MediaObject
 
 ---
