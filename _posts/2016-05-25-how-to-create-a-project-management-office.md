@@ -1,7 +1,6 @@
 ---
 inFeed: true
 hasPage: false
-inNav: false
 isBasedOnUrl: >-
   http://www.cio.com/article/3062999/project-management/how-to-create-a-project-management-infrastructure-from-the-ground-up.html
 inLanguage: null
@@ -13,8 +12,8 @@ description: >-
   financial management of these efforts then it is likely that the organization
   could benefit greatly from the creation of a formal project management
   infrastructure.
-datePublished: '2016-07-04T23:20:37.463Z'
-dateModified: '2016-07-04T23:13:42.606Z'
+datePublished: '2017-03-04T22:08:15.095Z'
+dateModified: '2017-03-04T22:08:13.465Z'
 author:
   - name: Brad Egeland
     url: 'http://www.cio.com/author/Brad-Egeland/'
@@ -22,8 +21,10 @@ author:
 title: How to create a project management Office
 sourcePath: _posts/2016-05-25-how-to-create-a-project-management-office.md
 authors: []
-publisher: null
+publisher: {}
+via: {}
 starred: false
+datePublishedOriginal: '2016-07-04T23:20:37.463Z'
 _type: MediaObject
 
 ---
