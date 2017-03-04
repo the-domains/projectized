@@ -1,7 +1,6 @@
 ---
 inFeed: true
 hasPage: false
-inNav: false
 isBasedOnUrl: >-
   http://elemental-projects.com.au/disaster-recovery-and-risk-management/?utm_content=bufferd6893&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer
 inLanguage: null
@@ -12,8 +11,8 @@ description: >-
   project management risks are necessary, and unexpected developments are
   inevitable. While risks are inherent in projects, they can be disastrous if
   not properly analysed and handled.
-datePublished: '2016-07-04T23:13:02.894Z'
-dateModified: '2016-07-04T23:12:38.476Z'
+datePublished: '2017-03-04T22:08:15.096Z'
+dateModified: '2017-03-04T22:08:13.465Z'
 title: Blog - Risk Management & Disaster Recovery | Elemental Projects
 author:
   - name: Elemental Projects
@@ -22,8 +21,10 @@ author:
 sourcePath: >-
   _posts/2016-06-14-blog-risk-management-and-disaster-recovery-or-elemental-proje.md
 authors: []
-publisher: null
+publisher: {}
+via: {}
 starred: false
+datePublishedOriginal: '2016-07-04T23:13:02.894Z'
 _type: MediaObject
 
 ---
