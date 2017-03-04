@@ -1,7 +1,6 @@
 ---
 inFeed: true
 hasPage: false
-inNav: false
 isBasedOnUrl: >-
   http://www.cio.com/article/3082037/project-management/11-best-practices-to-improve-any-project-anywhere.html
 inLanguage: null
@@ -12,8 +11,8 @@ description: >-
   should be doing to improve the project. It can be very easy to start going
   through the motions if the project is on auto pilot or even if it's going
   horribly wrong.
-datePublished: '2016-07-04T23:12:07.447Z'
-dateModified: '2016-07-04T23:11:48.887Z'
+datePublished: '2017-03-04T22:08:15.092Z'
+dateModified: '2017-03-04T22:08:13.465Z'
 title: 11 best practices to improve any project anywhere
 author:
   - name: Brad Egeland
@@ -21,8 +20,10 @@ author:
     avatar: {}
 sourcePath: _posts/2016-06-14-great-thoughts-of-how-you-can-control-your-project.md
 authors: []
-publisher: null
+publisher: {}
+via: {}
 starred: false
+datePublishedOriginal: '2016-07-04T23:12:07.447Z'
 _type: MediaObject
 
 ---
