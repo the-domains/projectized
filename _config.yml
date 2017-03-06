@@ -1,29 +1,54 @@
 name: Projectized.co
-analytics:
-  twitter: Projectized.co
-  google: UA-80513059-1
-purpose:
-  - type: contact
-    label: Get in touch
-    url: 'tel:(+2)01-065-501-623'
-github: true
-description: 'Projects, programs management consulting'
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/eb85dd8f-f554-41a1-8ea0-fd3d8d8ac1b8.png
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/f1111b68-8fae-49b1-8eb7-9d3333f3cc27.png
+layout_spectrum: 0.5148835576479646
+typography_spectrum: 0.9808379334726804
 cta: {}
-author:
-  name: Moemen Fouad Ahmed
-  url: 'http://Projectized.co'
-  email: moufou@hotmail.com
+analytics:
+  google: UA-80513059-1
+  twitter: Projectized.co
+opengraph: {}
 color:
-  lightness: 0.01848745615774821
   brandColors:
     - '#324C8E'
     - '#BF1E2E'
     - '#000000'
     - '#000080'
     - '#FF0000'
-  saturation: 0.750092962348723
   brandStrength: 0.04626193036989189
+  lightness: 0.01848745615774821
+  saturation: 0.750092962348723
   rhythmicContrast: 0.3969853687718843
+purpose:
+  - type: contact
+    label: Get in touch
+    url: 'tel:(+2)01-065-501-623'
+  - type: contact
+    label: Call Now for info.
+    url: 'tel:00201020900456'
+title: Taking Business Forward
+description: 'Projects, programs management consulting'
+author:
+  name: Moemen Fouad Ahmed
+  url: 'http://Projectized.co'
+  email: moufou@hotmail.com
+content_rating:
+  adult: false
+navigation:
+  - name: Services
+    id: 91c4161b-6ae5-426c-b0b9-947b21478a90
+    type: content
+  - name: Contact Us
+    id: d1f339a2-2875-477c-84c5-0d43cb067993
+    type: content
+  - name: 'Vision, Mission, & Core Values'
+    id: 10689ad2-0e1f-40ce-aa05-ebd454f1b41e
+    type: content
+  - name: About Us
+    id: af3b9928-fe37-4eab-9846-ca5e0d71f825
+    type: content
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
@@ -33,19 +58,16 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/bb3fff88-31c5-4195-bd0d-cd921359c64f.png
     metadata:
-      author: []
-      datePublished: null
-      keywords: []
       '@type': MediaObject
+      '@context': 'http://schema.org'
+      keywords: []
       publisher:
-        favicon: null
-        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+      author: []
+      starred: false
       description: ''
-      related: []
-      app_links: []
-      '@context': 'http://schema.org'
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
@@ -57,54 +79,17 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/4bf45409-c803-44d3-9e69-825d6cf29c66.png
     metadata:
-      author: []
-      datePublished: null
-      keywords: []
       '@type': MediaObject
+      '@context': 'http://schema.org'
+      keywords: []
       publisher:
-        favicon: null
-        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+      author: []
+      starred: false
       description: ''
-      related: []
-      app_links: []
-      '@context': 'http://schema.org'
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-navigation:
-  - id: 91c4161b-6ae5-426c-b0b9-947b21478a90
-    name: Services
-    type: content
-  - id: d1f339a2-2875-477c-84c5-0d43cb067993
-    name: Contact Us
-    type: content
-  - id: 10689ad2-0e1f-40ce-aa05-ebd454f1b41e
-    name: 'Vision, Mission, & Core Values'
-    type: content
-  - id: af3b9928-fe37-4eab-9846-ca5e0d71f825
-    name: About Us
-    type: content
-layout_spectrum: 0.5148835576479646
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/eb85dd8f-f554-41a1-8ea0-fd3d8d8ac1b8.png
-content_rating:
-  adult: false
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-typography_spectrum: 0.9808379334726804
-opengraph: {}
-title: Taking Business Forward
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/f1111b68-8fae-49b1-8eb7-9d3333f3cc27.png
+github: true
