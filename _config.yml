@@ -49,6 +49,9 @@ navigation:
   - name: About Us
     id: af3b9928-fe37-4eab-9846-ca5e0d71f825
     type: content
+  - name: linkedIn
+    url: 'https://www.linkedin.com/m/company/10684341/'
+    type: external
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
