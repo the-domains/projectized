@@ -5,8 +5,8 @@ description: >-
   project managers with each other to exchange knowledge and information, also
   we are working on connecting them to opportunity to work, consult or
   participate in projects.
-dateModified: '2017-03-20T21:25:16.495Z'
-datePublished: '2017-03-20T21:25:17.170Z'
+dateModified: '2017-03-20T21:25:56.754Z'
+datePublished: '2017-03-20T21:25:57.728Z'
 title: Join Our Network
 author: []
 publisher: {}
