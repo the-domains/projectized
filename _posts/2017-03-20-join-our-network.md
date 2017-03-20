@@ -5,8 +5,8 @@ description: >-
   project managers with each other to exchange knowledge and information, also
   we are working on connecting them to opportunity to work, consult or
   participate in projects.
-dateModified: '2017-03-20T21:16:09.049Z'
-datePublished: '2017-03-20T21:16:09.695Z'
+dateModified: '2017-03-20T21:21:56.291Z'
+datePublished: '2017-03-20T21:21:57.160Z'
 title: Join Our Network
 author: []
 publisher: {}
@@ -27,5 +27,9 @@ We believe that in Prjectized.co we are capable to connect good talented project
 By registering your information with us we will be contacting you for any updates on the network and news letter.
 
 [Register Now][0]
+
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJw9j8sKwjAURH-lBNwmUVREjFIVHyiiqKCrkjbXNGCaepu2-Pe-XZ5hOMwMzAWlhaDARJDU-7zoM6ZcUlDtnL4CTZxlF4e2YIoBa87CZb5b72HePuOtjhbhZNzOj9A64HyLsjebmnBXVdn1LvNx9xStylvtN6VmlYH6pRmBjUEpUMJjCSSojfKpIE3OGyRIwejUP6nDOQnew2KHClCQJ1uJ2mS_zj_4GjgZrp1UJtOU0gH73Bo-ALYfS8Q" height="1600" style=""></iframe>
+
+
 
 [0]: https://docs.google.com/forms/d/e/1FAIpQLSeG4Yrqw_HACB4pUe2TrGPra8FDiAQvvnlyapB6X_KuqwtNug/viewform?usp=pp_url&entry.2005620554&entry.1045781291&entry.1166974658&entry.1268692891
