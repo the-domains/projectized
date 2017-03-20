@@ -22,9 +22,10 @@ color:
   saturation: 0.750092962348723
   rhythmicContrast: 0.3969853687718843
 purpose:
-  - type: contact
-    label: Get in touch
-    url: 'tel:(+2)01-065-501-623'
+  - type: external
+    label: Join Our Network
+    url: >-
+      https://docs.google.com/forms/d/e/1FAIpQLSeG4Yrqw_HACB4pUe2TrGPra8FDiAQvvnlyapB6X_KuqwtNug/viewform?usp=pp_url&entry.2005620554&entry.1045781291&entry.1166974658&entry.1268692891
   - type: contact
     label: Call Now for info.
     url: 'tel:00201020900456'
