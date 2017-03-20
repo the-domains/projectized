@@ -1,12 +1,12 @@
 ---
-inFeed: true
+inFeed: false
 description: >-
   We believe that in Prjectized.co we are capable to connect good talented
   project managers with each other to exchange knowledge and information, also
   we are working on connecting them to opportunity to work, consult or
   participate in projects.
-dateModified: '2017-03-20T21:21:56.291Z'
-datePublished: '2017-03-20T21:21:57.160Z'
+dateModified: '2017-03-20T21:25:16.495Z'
+datePublished: '2017-03-20T21:25:17.170Z'
 title: Join Our Network
 author: []
 publisher: {}
@@ -16,7 +16,7 @@ sourcePath: _posts/2017-03-20-join-our-network.md
 starred: false
 datePublishedOriginal: '2017-03-20T21:01:11.350Z'
 url: join-our-network/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Join Our Network
