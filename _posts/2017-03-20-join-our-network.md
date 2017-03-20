@@ -5,8 +5,8 @@ description: >-
   project managers with each other to exchange knowledge and information, also
   we are working on connecting them to opportunity to work, consult or
   participate in projects.
-dateModified: '2017-03-20T21:25:56.754Z'
-datePublished: '2017-03-20T21:25:57.728Z'
+dateModified: '2017-03-20T23:45:02.115Z'
+datePublished: '2017-03-20T23:45:03.572Z'
 title: Join Our Network
 author: []
 publisher: {}
@@ -28,7 +28,7 @@ By registering your information with us we will be contacting you for any update
 
 [Register Now][0]
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJw9j8sKwjAURH-lBNwmUVREjFIVHyiiqKCrkjbXNGCaepu2-Pe-XZ5hOMwMzAWlhaDARJDU-7zoM6ZcUlDtnL4CTZxlF4e2YIoBa87CZb5b72HePuOtjhbhZNzOj9A64HyLsjebmnBXVdn1LvNx9xStylvtN6VmlYH6pRmBjUEpUMJjCSSojfKpIE3OGyRIwejUP6nDOQnew2KHClCQJ1uJ2mS_zj_4GjgZrp1UJtOU0gH73Bo-ALYfS8Q" height="1600" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyFkM1OAyEURl_linHZMjU1VeZn2bjQXRPXDFxmqAyMwHScPr3QJhoTE8MK8n33ck6llecDQo-662NNdo-PBLgxbj54bsPIPVqx1CT6CQlcsq3zEn1NCgJBeGeMtl1NrEvXuBisyaxl7NmmKO7Ka5ZZZ1Mbghc16WMcA6N09O6IIuozyvU8KefWwg0UhxYlPW_G7uHp47S53x63haKkqTj0HtV_deX8EP6o77Ux4KYIwwJvOQ05eVNR3lT0qqCppD6Blun_k1pxefrmUc7GleKDNgvTtkevY3l5C2k7gzAkX6Vwxnl2y3f5lBE_44ob3Vkm0Eb0pdRhNHxhrXHivUxAya0FYXgIWV7Mtg2PSJrnw-sL7DMIjG5GjxLaBX4JSPzzPP9wk-YClXHWFc2TE1bCab4AFK6m0A" height="800" style=""></iframe>
 
 
 
