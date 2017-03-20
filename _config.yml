@@ -1,15 +1,6 @@
-name: Projectized.co
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/eb85dd8f-f554-41a1-8ea0-fd3d8d8ac1b8.png
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/f1111b68-8fae-49b1-8eb7-9d3333f3cc27.png
-layout_spectrum: 0.5148835576479646
 typography_spectrum: 0.9808379334726804
-cta: {}
-analytics:
-  google: UA-80513059-1
-  twitter: Projectized.co
-opengraph: {}
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#324C8E'
@@ -21,22 +12,20 @@ color:
   lightness: 0.01848745615774821
   saturation: 0.750092962348723
   rhythmicContrast: 0.3969853687718843
-purpose:
-  - type: external
-    label: Join Our Network
-    url: >-
-      https://docs.google.com/forms/d/e/1FAIpQLSeG4Yrqw_HACB4pUe2TrGPra8FDiAQvvnlyapB6X_KuqwtNug/viewform?usp=pp_url&entry.2005620554&entry.1045781291&entry.1166974658&entry.1268692891
-  - type: email
-    label: Contact Us Now
-    url: 'mailto:info@projectized.co'
-title: Taking Business Forward
-description: 'Projects, programs management consulting'
+github: true
+opengraph: {}
+layout_spectrum: 0.5148835576479646
+analytics:
+  google: UA-80513059-1
+  twitter: Projectized.co
 author:
   name: Moemen Fouad Ahmed
   url: 'http://Projectized.co'
   email: moufou@hotmail.com
-content_rating:
-  adult: false
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/f1111b68-8fae-49b1-8eb7-9d3333f3cc27.png
+name: Projectized.co
+cta: {}
 navigation:
   - name: Services
     id: 91c4161b-6ae5-426c-b0b9-947b21478a90
@@ -53,6 +42,12 @@ navigation:
   - name: linkedIn
     url: 'https://www.linkedin.com/m/company/10684341/'
     type: external
+  - name: Join Our Network
+    id: 6afab48e-815d-40bc-8018-97bc31edfe74
+    type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/eb85dd8f-f554-41a1-8ea0-fd3d8d8ac1b8.png
+title: Taking Business Forward
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
@@ -96,4 +91,12 @@ content:
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-github: true
+description: 'Projects, programs management consulting'
+purpose:
+  - type: external
+    label: Join Our Network
+    url: >-
+      https://docs.google.com/forms/d/e/1FAIpQLSeG4Yrqw_HACB4pUe2TrGPra8FDiAQvvnlyapB6X_KuqwtNug/viewform?usp=pp_url&entry.2005620554&entry.1045781291&entry.1166974658&entry.1268692891
+  - type: email
+    label: Contact Us Now
+    url: 'mailto:info@projectized.co'
