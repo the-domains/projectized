@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-03-04T22:08:15.018Z'
+datePublished: '2017-03-21T00:09:20.274Z'
 sourcePath: _posts/2016-07-26-contact-us.md
 inFeed: false
 authors: []
@@ -7,10 +7,10 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2017-03-04T22:08:13.465Z'
+dateModified: '2017-03-21T00:09:18.390Z'
 title: Contact Us
 publisher: {}
-description: 'Email: Info@Projectized.co Phone: (+2)01-065-501-623'
+description: 'Email: Info@Projectized.co Phone: '
 inLanguage: null
 starred: false
 datePublishedOriginal: '2016-08-02T10:13:27.565Z'
@@ -24,4 +24,8 @@ _type: MediaObject
 
 Email:   
 Info@Projectized.co   
-Phone: (+2)01-065-501-623
+Phone: 
+
+(+2)01-020-900-456 
+
+(+2)01-065-501-623
