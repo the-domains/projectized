@@ -46,15 +46,15 @@ navigation:
   - name: Contact Us
     id: d1f339a2-2875-477c-84c5-0d43cb067993
     type: content
+  - name: Join Our Network
+    id: 6afab48e-815d-40bc-8018-97bc31edfe74
+    type: content
   - name: About Us
     id: af3b9928-fe37-4eab-9846-ca5e0d71f825
     type: content
   - name: linkedIn
     url: 'https://www.linkedin.com/m/company/10684341/'
     type: external
-  - name: Join Our Network
-    id: 6afab48e-815d-40bc-8018-97bc31edfe74
-    type: content
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
