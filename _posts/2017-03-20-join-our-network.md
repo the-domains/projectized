@@ -1,20 +1,20 @@
 ---
+title: Join Our Network
+datePublished: '2017-03-22T19:45:11.986Z'
+dateModified: '2017-03-22T19:44:55.397Z'
+publisher: {}
+author: []
 inFeed: false
+hasPage: true
 description: >-
-  We believe that in Prjectized.co we are capable to connect good talented
+  We believe that in Projectized.co we are capable to connect good talented
   project managers with each other to exchange knowledge and information, also
   we are working on connecting them to opportunity to work, consult or
   participate in projects.
-dateModified: '2017-03-21T00:05:16.061Z'
-datePublished: '2017-03-21T00:05:16.746Z'
-title: Join Our Network
-author: []
-publisher: {}
 via: {}
-hasPage: true
-sourcePath: _posts/2017-03-20-join-our-network.md
 starred: false
 datePublishedOriginal: '2017-03-20T21:01:11.350Z'
+sourcePath: _posts/2017-03-20-join-our-network.md
 url: join-our-network/index.html
 _type: Blurb
 
@@ -22,7 +22,7 @@ _type: Blurb
 # Join Our Network
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8814459d-795f-44c9-89d8-39c0c9a6f106.jpg)
 
-We believe that in Prjectized.co we are capable to connect good talented project managers with each other to exchange knowledge and information, also we are working on connecting them to opportunity to work, consult or participate in projects.
+We believe that in Projectized.co we are capable to connect good talented project managers with each other to exchange knowledge and information, also we are working on connecting them to opportunity to work, consult or participate in projects.
 
 By registering your information with us we will be contacting you for any updates on the network and news letter.
 
