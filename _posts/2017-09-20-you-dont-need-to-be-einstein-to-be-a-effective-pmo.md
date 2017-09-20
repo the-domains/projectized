@@ -18,9 +18,9 @@ description: >-
 app_links: []
 isBasedOnUrl: 'https://blog.transparentchoice.com/einstein-pmo-effectiveness'
 title: You don't need to be Einstein to be a effective PMO
-datePublished: '2017-09-20T19:29:13.257Z'
-dateModified: '2017-09-20T19:28:56.816Z'
-datePublishedOriginal: '2017-09-20T19:29:13.257Z'
+datePublished: '2017-09-20T19:31:37.158Z'
+dateModified: '2017-09-20T19:30:24.655Z'
+datePublishedOriginal: '2017-09-20T19:31:37.158Z'
 via: {}
 inFeed: true
 starred: false
