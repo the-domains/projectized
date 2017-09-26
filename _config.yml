@@ -1,15 +1,5 @@
-name: Projectized.co
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/eb85dd8f-f554-41a1-8ea0-fd3d8d8ac1b8.png
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/f1111b68-8fae-49b1-8eb7-9d3333f3cc27.png
-layout_spectrum: 0.5148835576479646
-typography_spectrum: 0.9808379334726804
-cta: {}
-analytics:
-  google: UA-80513059-1
-  twitter: Projectized.co
-opengraph: {}
+layout_spectrum: 0.24642203962854523
+typography_spectrum: 0.9854609359237412
 color:
   brandColors:
     - '#324C8E'
@@ -17,10 +7,20 @@ color:
     - '#000000'
     - '#000080'
     - '#FF0000'
-  brandStrength: 0.04626193036989189
-  lightness: 0.01848745615774821
-  saturation: 0.750092962348723
-  rhythmicContrast: 0.3969853687718843
+  brandStrength: 0.04805302929492797
+  lightness: 0.7930242646652468
+  saturation: 0.7555768158226873
+  rhythmicContrast: 0.3943041609817802
+name: Projectized.co
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/eb85dd8f-f554-41a1-8ea0-fd3d8d8ac1b8.png
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/f1111b68-8fae-49b1-8eb7-9d3333f3cc27.png
+cta: {}
+analytics:
+  google: UA-80513059-1
+  twitter: Projectized.co
+opengraph: {}
 purpose:
   - type: external
     label: Join Our Network
