@@ -28,8 +28,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://blog.epmainc.com/pmbok-6th-edition-what-you-need-to-know-2/'
 title: PMBOK 6th Edition - What You Need to Know
-datePublished: '2017-03-04T22:08:15.003Z'
-dateModified: '2017-03-04T22:08:13.465Z'
+datePublished: '2017-09-26T12:53:19.037Z'
+dateModified: '2017-09-26T12:53:17.814Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-03-04-pmbok-6th-edition-what-you-need-to-know.md
