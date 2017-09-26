@@ -44,8 +44,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://www.linkedin.com/pulse/how-successful-pmo-should-function-greg-bailey'
 title: How a successful PMO should function.
-datePublished: '2017-03-04T22:08:15.003Z'
-dateModified: '2017-03-04T22:08:13.465Z'
+datePublished: '2017-09-26T12:53:19.030Z'
+dateModified: '2017-09-26T12:53:17.814Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-01-02-how-a-successful-pmo-should-function.md
