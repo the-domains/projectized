@@ -1,5 +1,5 @@
 ---
-dateModified: '2017-03-04T22:08:13.465Z'
+dateModified: '2017-09-26T12:53:17.814Z'
 author: []
 via: {}
 title: The Best Thing Ever Written About Strategy
@@ -11,7 +11,7 @@ description: >-
   This weekend, I've been revisiting my misspent youth, by reading again the
   musings of Bruce Doolin Henderson and his colleagues from the Boston
   Consulting Group (BCG) in its early years.
-datePublished: '2017-03-04T22:08:15.017Z'
+datePublished: '2017-09-26T12:53:19.037Z'
 sourcePath: _posts/2016-08-24-the-best-thing-ever-written-about-strategy.md
 inFeed: true
 starred: false
